@@ -1,0 +1,11 @@
+<wpt lat="" lon="">
+    <name>CNG Stations</name>
+    <desc>[PoiPoint]</desc>
+    <sym>Dot</sym>
+    <type>CNG Stations</type>
+    <extensions>
+        <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+            <label_text>CNG Stations</label_text>
+        </label>
+    </extensions>
+</wpt>
