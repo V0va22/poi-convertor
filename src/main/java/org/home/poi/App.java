@@ -17,6 +17,7 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -33,12 +34,7 @@ public class App
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         DocumentBuilder db = dbf.newDocumentBuilder();
         Document doc = db.parse(App.class.getResourceAsStream("/root.xml"));
-        List<Poi> poiList;
-        if (inputFile.endsWith(".json")) {
-            poiList = parseJson(inputFile);
-        } else {
-            poiList = parseXml(inputFile);
-        }
+        List<Poi> poiList = parseJson(inputFile);
         Document wptDoc = db.parse(App.class.getResourceAsStream("/wpt.xml"));
         Element wpt = (Element) doc.importNode(wptDoc.getDocumentElement(), true);
         for (Poi poi: poiList) {
@@ -54,10 +50,6 @@ public class App
         StreamResult result = new StreamResult(new File(outFile));
         transformer.transform(source, result);
 
-    }
-
-    private static List<Poi> parseXml(String inputFile) {
-        return null;
     }
 
     private static List<Poi> parseJson(String inputFile) throws IOException {
