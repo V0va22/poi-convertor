@@ -1,0 +1,2264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CNG STATIONS UKRAINE</name>
+		<description><![CDATA[CNG stations at Ukraine and Crimea<br><br>Turkish - location confirmed by GPS or photo<br>Blue - approximate location<br><br>Last update: 2013-09-19]]></description>
+		<Folder>
+			<name>Warstwa bez nazwy</name>
+			<Placemark>
+				<name>Республіка Крим - Симферополь - Рубикон-2</name>
+				<description><![CDATA[Симферополь - Рубикон-2<br>ул. Крылова<br><br>Source<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-2.html)<br>- wikimapia.org (http://wikimapia.org/21934626/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3757)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.11624,44.917661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Симферополь - АльфаГазИнвест</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/z-NmUPuUzfwlu9lGqgHmmdQ4iNQHJQHUaZCxRfN4PGf-cNjXFzAkMTWS_XeopwI-T7KmpRQB5lCVmmS22R2C1g-AfjBFTsZCiNRC0LTuMyg" height="200" width="auto" /><br><br>Симферополь - АльфаГазИнвест<br>ул. Генерала Васильева<br><br>Source<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-2.html)<br>- wikimapia.org (http://wikimapia.org/15111246/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/z-NmUPuUzfwlu9lGqgHmmdQ4iNQHJQHUaZCxRfN4PGf-cNjXFzAkMTWS_XeopwI-T7KmpRQB5lCVmmS22R2C1g-AfjBFTsZCiNRC0LTuMyg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.072917,44.933643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Симферополь</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/upC7DbJnwR-qzgodktnILMQ-EWfNwyMkwlntIk8g_02YCF-Cbe_kpAh30JmD96zTWbD8eYe_-QDt-BIwJGYTb9KWU9vEIQ" height="200" width="auto" /><br><br>Source:<br>- wikimapia.org (http://wikimapia.org/17417288/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)<br>- yandex.ua (http://maps.yandex.ua/-/CVb4EI7P)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/upC7DbJnwR-qzgodktnILMQ-EWfNwyMkwlntIk8g_02YCF-Cbe_kpAh30JmD96zTWbD8eYe_-QDt-BIwJGYTb9KWU9vEIQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.047747,44.889977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Симферополь</name>
+				<description><![CDATA[ул. Героев Сталинграда 6б<br>Симферополь<br><br>Source<br>- agnks.ru (http://agnks.ru/agnks_map/94/simferopol/)<br>- maps.yandex.ua (http://maps.yandex.ua/-/CVvzUB25)<br><br>other information:<br>- wikimapia.org (http://wikimapia.org/10156813/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%C2%AB%D0%A2%D0%AD%D0%A1%C2%BB)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.061791,44.937714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Севастополь - молоки</name>
+				<description><![CDATA[Approximate position<br>Шабалина 8-я<br><br>Source<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-2.html)<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3717)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>33.505366,44.576908,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Севастополь - Інкерман</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/ZGJocBJHwUySLNk_X41ZZX0dSXU03krwfsvQvqWuKDtZW6T1Q2iRN99yOWrxDVefyn9uHtXgrt0-9s6adaRj3XPllEBeAUfL5S1w6OugDlz8_KE4s-BxGJZk19E4qCI5hJoR1UeGDS2-" height="200" width="auto" /><br><br>OKKO<br>Сімферопольське шосе, 18-А<br>тел. +380 692 726914<br>Source:<br>- www.okko.ua (http://www.okko.ua/uk/network_map)<br>- yandex.ua (http://maps.yandex.ua/-/CVb5mBlO)<br><br><br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/13556788/ru/%D0%90%D0%97%D0%A1-%C2%AB%D0%9E%D0%9A%D0%9A%D0%9E%C2%BB)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=45369)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/ZGJocBJHwUySLNk_X41ZZX0dSXU03krwfsvQvqWuKDtZW6T1Q2iRN99yOWrxDVefyn9uHtXgrt0-9s6adaRj3XPllEBeAUfL5S1w6OugDlz8_KE4s-BxGJZk19E4qCI5hJoR1UeGDS2-</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.603975,44.615213000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Ялта</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/4650305/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%C2%AB%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B3%D0%B0%D0%B7%C2%BB)<br>- yandex.ua (http://maps.yandex.ua/-/CVb5mG6B)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.158382,44.515355,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Армянск</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/EaVEMLqjIUzwu1Br2Qml6e06KOCh8H0dGS8A6j9yXVNHeQIJ5mFQxsEf7PxMnHX4qTGMiDtCGXudu6ZqUVdjeI-_47ff2g" height="200" width="auto" /><br><br>ТНК комплексная заправка бензин и газ<br><br>GPS coordinates<br>N 46° 7' 6.54"  E 33° 41' 0.18"          <br>     N 46° 7.109'   E 33° 41.003'          <br>     N 46.11848°  E 33.68338°<br>Source:<br>- wikimapia.org (http://wikimapia.org/21786400/ru/%D0%90%D0%97%D0%A1-%C2%AB%D0%A2%D0%9D%D0%9A%C2%BB-%D0%B8-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/EaVEMLqjIUzwu1Br2Qml6e06KOCh8H0dGS8A6j9yXVNHeQIJ5mFQxsEf7PxMnHX4qTGMiDtCGXudu6ZqUVdjeI-_47ff2g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.683422,46.11848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Красноперекопск</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/PH6MherRt5P5jl9i6iqOPpfm4E3O9z8kIatN3en6ps7i1lAun-_GW8DlR_OmSbwHbB79JZrpDkzpedUe9uvd8KKvTgL50CVbKpZbfvA7KIY" height="200" width="auto" /><br><br>Красноперекопск<br>Source:<br>- wikimapia.org (http://wikimapia.org/27784389/ru/%D0%90%D0%97%D0%A1-%C2%AB%D0%9E%D0%9A%D0%9A%D0%9E%C2%BB-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)<br>-]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/PH6MherRt5P5jl9i6iqOPpfm4E3O9z8kIatN3en6ps7i1lAun-_GW8DlR_OmSbwHbB79JZrpDkzpedUe9uvd8KKvTgL50CVbKpZbfvA7KIY</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.810259,45.938622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Феодосия</name>
+				<description><![CDATA[Феодосия<br><br>GPS coordinates<br>N 45° 4' 25.02"  E 35° 23' 30.18"<br>N 45° 4.417'   E 35° 23.503'N 45.07362°  E 35.39172°<br><br>Further information:<br>- yandex.ua (http://maps.yandex.ua/-/CVb5mOlV)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.390739,45.073543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Бахчисарай</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/wu_ds8JI-Z7JEL5l21LVb0HDY_Trc38z7W2TklTxstvYhqrEncbzMOjbZ0axyHd8rjwaPFdwd8OldlLc4GbZdwIuEtwEnVA6oHgBycJ8o54" height="200" width="auto" /><br><br>Крымгаз<br>Source:<br>- wikimapia.org (http://wikimapia.org/24329865/ru/%D0%90%D0%97%D0%A1-%C2%AB%D0%9A%D1%80%D1%8B%D0%BC%D0%B3%D0%B0%D0%B7%C2%BB)<br>- gazmap.ru<br>- ngc.kiev.ua (http://ngc.kiev.ua/crimea.html)<br><br>Further information:<br>-]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/wu_ds8JI-Z7JEL5l21LVb0HDY_Trc38z7W2TklTxstvYhqrEncbzMOjbZ0axyHd8rjwaPFdwd8OldlLc4GbZdwIuEtwEnVA6oHgBycJ8o54</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.837204,44.759594,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Керчь</name>
+				<description><![CDATA[VTG<br>Fabrichnaya st.112<br>Tel.: +380 656 130103<br>24h<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/24097635/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%C2%ABVTG%C2%BB)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVb5mWme)<br><br>Further information:<br>- cngprices.com (http://www.cngprices.com/station_map.php?bounds=%28%2845.26485921993534%2C%2036.32852554321289%29%2C%20%2845.36022718724789%2C%2036.55855178833008%29%29&fuel_type=1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.405301,45.28045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Керчь</name>
+				<description><![CDATA[АГНКС ЧФ «Газсервис»<br>ул. Чкалова, 151а<br><br>Source:<br>- gazmap.ru<br><br>Other information:<br>- yandex.ua (http://maps.yandex.ua/-/CVb5mW0h)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>36.438689,45.349503,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Керчь</name>
+				<description><![CDATA[АГНКС ООО «Продекс»<br>ул. Глухова<br><br>Source:<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVb4E47e)<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/8084966/de/Tankstelle-GAS)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.45784,45.362383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Dzhankoy</name>
+				<description><![CDATA[Source:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1283001)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3762)<br>- wikimapia.org (http://wikimapia.org/9684220/Petrol-station)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.397303,45.695884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Evpatoriya</name>
+				<description><![CDATA[Position unsure.<br><br>Source:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/2054002)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=41268)<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/18838179/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0) (LPG)<br>- yandex.ua (http://maps.yandex.ua/-/CVb5F4IE)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>33.326619,45.198739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Evpatoriya</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/vQKKHfde07PNQDJ0rQoXnrhS_bJERv6Z36ISSPWF89r340RWEJGCQWOYtGB4y5NdCRTL7FgosCt1vvelvRFZLfgACeiQPYHq0gaQZ-PaxPA" height="200" width="auto" /><br><br>not sure if there is a CNG station<br><br>Source:<br>  <br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/14882201/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0) (LPG)<br>- yandex.ua (http://maps.yandex.ua/-/CVb5FJJO)<br><br><img src="https://lh5.googleusercontent.com/proxy/OkSCNW4UkaDvDP__QHW-N19a9t2hWqob9bLNuD9CcbBpst47z1PgL2tPy8CV4X_V_nh9YiV58gDbSe37RsCiN3tMkgIiAoUj82LcaHTduGI" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/proxy/iiv9myYqHoLnWZESGhR82ZgxAcJC2bIdBi6FkNSgQimT-oSkdgBVxLG2VXwn5GvtDS5yo6DdOVm41D7Ik9zib1Njhc6ymx5NupcVjkp9v_w" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/vQKKHfde07PNQDJ0rQoXnrhS_bJERv6Z36ISSPWF89r340RWEJGCQWOYtGB4y5NdCRTL7FgosCt1vvelvRFZLfgACeiQPYHq0gaQZ-PaxPA https://lh5.googleusercontent.com/proxy/OkSCNW4UkaDvDP__QHW-N19a9t2hWqob9bLNuD9CcbBpst47z1PgL2tPy8CV4X_V_nh9YiV58gDbSe37RsCiN3tMkgIiAoUj82LcaHTduGI https://lh6.googleusercontent.com/proxy/iiv9myYqHoLnWZESGhR82ZgxAcJC2bIdBi6FkNSgQimT-oSkdgBVxLG2VXwn5GvtDS5yo6DdOVm41D7Ik9zib1Njhc6ymx5NupcVjkp9v_w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.383718,45.206817,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Республіка Крим - Nyzhnohirskyi</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/CWoL67YSFNnPirIAI76QE-ffRnhqMG0fJcOP7QGQViid88B-HDqxUnxB3Rt7U927CfY-6C0JPrH2AgByUFh_F8MZgN8o6w" height="200" width="auto" /><br><br>Source:<br>- wikimapia.org (http://wikimapia.org/23036865/CNG-gas-station)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/CWoL67YSFNnPirIAI76QE-ffRnhqMG0fJcOP7QGQViid88B-HDqxUnxB3Rt7U927CfY-6C0JPrH2AgByUFh_F8MZgN8o6w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.741162,45.432559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Винницкая обл. - Винница-1</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз<br>Объездная дорога. 165 кг. трассы Умань – Краковец<br>Tel. +380 432 324811<br><br>Source:<br>- agnkc.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-3.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4747)<br>- wikimapia.org (http://wikimapia.org/23762184/ru/%D0%90%D0%97%D0%A1)<br>- ukravtogaz.com (http://ukravtogaz.com/kontaktna-informaciya/merezha-agnks/vinnicka-oblast)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>28.490869,49.282928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Винницкая обл. - Винница</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/14c-jmRSD1gb0UnS-2xBrvzE4aDcED-0-kdgOzSLemjbcPY_tR_sXhCWsVmXs1xdaepMh8ZBWnoYMeeXmWXcH1517fENlGeDdrN2MkxG8ko" height="200" width="auto" /><br><br>г. Винница, ул. Черняхивского, 2«а».<br>Tel +380 432 355778<br><br>Source:<br>- agnkc.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-3.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4748)<br>- wikimapia.org (http://wikimapia.org/22566574/ru/%D0%90%D0%97%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVb5RYJu)<br>- ukravtogaz.com (http://ukravtogaz.com/kontaktna-informaciya/merezha-agnks/vinnicka-oblast)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/14c-jmRSD1gb0UnS-2xBrvzE4aDcED-0-kdgOzSLemjbcPY_tR_sXhCWsVmXs1xdaepMh8ZBWnoYMeeXmWXcH1517fENlGeDdrN2MkxG8ko</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.430332,49.210697,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Винницкая обл. - Винница</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/zt-GI-YR3oFxCRi4hMSFwMEPIalbi-SzX2kGHcMV6N8uNKCOJV51KHnEWTDbYJKpgXzsEIDC8Mqc76g" height="200" width="auto" /><br><br>вул. Індустріальна, 1<br>ул. Индустриальная, 1<br>смт. Стрижавка (?)<br>(Ориентир: трасса Киев - Днепропетровск - Донецк)<br>Tel.: +380 432 579151<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5060)<br>- wikimapia.org (http://wikimapia.org/23675684/ru/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D0%90%D0%97%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVb5RAOc)<br>- forsage.com.ua (http://forsage.com.ua/ru/agnks03/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/zt-GI-YR3oFxCRi4hMSFwMEPIalbi-SzX2kGHcMV6N8uNKCOJV51KHnEWTDbYJKpgXzsEIDC8Mqc76g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.532696,49.281244,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Винницкая обл. - Винница</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/fmlEcz_uUubPeE3OrFCgr6JwMoQRDznIqP5L1b__rg0-fO4ocPEKjzVqgq8vxm40pTuueecAvv5jbna49gO0A93nViELCg" height="200" width="auto" /><br><br>Source:<br>- wikimapia.org (http://wikimapia.org/19910272/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- ngc.kiev.ua (http://ngc.kiev.ua/vinitsa.html)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/fmlEcz_uUubPeE3OrFCgr6JwMoQRDznIqP5L1b__rg0-fO4ocPEKjzVqgq8vxm40pTuueecAvv5jbna49gO0A93nViELCg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.510584,49.193414000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Винницкая обл. - Винница</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/S8kzyBBYOTY-rrrxOuG9YmajKlV25ce6pUZ_cGp7lajI4qQNramgUJx-GhXXv1G0uC3Y01eh6l5Q_Aap6m5e_ctRwA" height="200" width="auto" /><br><br>Faktor Metan<br>пер. Щорса, 14-А<br>Tel.: +380 432 554637<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/S8kzyBBYOTY-rrrxOuG9YmajKlV25ce6pUZ_cGp7lajI4qQNramgUJx-GhXXv1G0uC3Y01eh6l5Q_Aap6m5e_ctRwA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.496523,49.21676300000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Винницкая обл. - Винница</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/JPTgDHEo-ugikWj752qDSrThcR_VFj-pnV6klH1DDtJB5h1SMW6Ey6a2ThQ6jzmL2wqbC4hoXjbOiwyHShO-82A0Tw" height="200" width="auto" /><br><br>Position unknown!<br>Faktor Metan<br>вул. Ватутіна, 1-А<br>Tel.: +380 4344 21193<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/JPTgDHEo-ugikWj752qDSrThcR_VFj-pnV6klH1DDtJB5h1SMW6Ey6a2ThQ6jzmL2wqbC4hoXjbOiwyHShO-82A0Tw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.517375,49.24477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Винницкая обл. - Гайсин</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/wStgpghsVcLRVSUwiqoT-DMZc1NQiT0qNS4_cq3jorbi8dZei-wUISye-w4N8VUTo6kVKZQOeWmyW0XQE9VQ3jSdnrix2iTAl_63bEAiJwo" height="200" width="auto" /><br><br>г. Гайсин, ул. Декабрьская, 82"А".<br>Tel +380 4334 23072<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-3.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4762)<br>- wikimapia.org (http://wikimapia.org/20967336/ru/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B7%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-%D0%90%D0%93%D0%9D%D0%A1-%D0%A0%D0%92%D0%A3-%C2%AB%D0%9A%D0%B8%D0%B5%D0%B2%D0%90%D0%B2%D1%82%D0%BE%D0%93%D0%B0%D0%B7%C2%BB)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- yandex.ua (http://maps.yandex.ua/-/CVb5RDNl)<br>- ukravtogaz.com (http://ukravtogaz.com/kontaktna-informaciya/merezha-agnks/vinnicka-oblast)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/wStgpghsVcLRVSUwiqoT-DMZc1NQiT0qNS4_cq3jorbi8dZei-wUISye-w4N8VUTo6kVKZQOeWmyW0XQE9VQ3jSdnrix2iTAl_63bEAiJwo</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>29.415164,48.80790900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Волинська обл. - Ковель</name>
+				<description><![CDATA[УкрАвтоГаз<br>ул. Владимирская, 160, Ковель<br>Tel.: +380 3352 26670<br><br>Source:<br>- www.angks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-4.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4818)<br>- ukravtogaz.com (http://ukravtogaz.com/kontaktna-informaciya/merezha-agnks/volinska-oblast)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.658427,51.179888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Волинська обл. - Ковель</name>
+				<description><![CDATA[вул. Польова 1<br><br>Source:<br>- agnks.org.ua<br>- wikimapia.org (http://wikimapia.org/19283818/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%90%D0%97%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- ngc.kiev.ua (http://ngc.kiev.ua/lutsk.html)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.651657,51.205116,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Волинська обл. - Луцк - с. Струмовка</name>
+				<description><![CDATA[Луцк, с. Струмивка, ул. Объездная<br>Tel.: +380 3322 58492<br>based on 161 km of M-19 way.<br>OOO Avektra OOO Авектра<br><br>Source:<br>- www.angsk.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainy.html)<br>- wikimapia.org (http://wikimapia.org/22640977/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- ukravtogaz.com (http://ukravtogaz.com/kontaktna-informaciya/merezha-agnks/volinska-oblast)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>25.402059000000005,50.731736,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Волинська обл. - Владимир-Волынский</name>
+				<description><![CDATA[ул. Луцкая 257, Владимир-Волынский<br>ul. Luzkaya 257, Wolodymyr-Wolynskyj<br>Tel.: +380 3342 27976<br><br>Sources:<br>- ukravtogaz.com (http://ukravtogaz.com/kontaktna-informaciya/merezha-agnks/volinska-oblast) (wrong position)<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-4.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4814)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- wikimapia.org (http://wikimapia.org/3898280/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%BC-%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.368598,50.825213,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепропетровск-1</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз Днепропетровск-1<br>Криворожское шоссе, 24.<br>Tel.: +380 562 590104<br><br>Sources:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-5.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4768)<br>- wikimapia.org (http://wikimapia.org/23245147/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%C2%AB%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA-1%C2%BB)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.943267,48.431116,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепропетровск-2</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз Днепропетровск-2<br>ул. Героев Сталинграда, 170«в».<br>Tel. +380 562 967925<br><br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-5.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4769)<br>- wikimapia.org (http://wikimapia.org/23822155/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.983988,48.370135,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепропетровск-3</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз Днепропетровск-3<br>ул. Почтовая, 144.<br>Tel. +380 562 273914<br><br><br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-5.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4770)<br>- wikimapia.org (http://wikimapia.org/15811821/ru/%D0%90%D0%93%D0%9D%D0%A1%D0%9A)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.057749,48.536691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепропетровск</name>
+				<description><![CDATA[МетанАвто<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/23822298/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBAPmw)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.036961,48.403377,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепропетровск</name>
+				<description><![CDATA[ул. Сухой остров, 3<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/7055407/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBAXOH)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.954644,48.474899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепропетровск</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/23822344/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBiX9s)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.081073,48.502232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепропетровск</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/23822325/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBi-Ik)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.105116,48.501408,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепродзержинск</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/-ik7Qh4M0o_wXrJf0YH39TBIc_BuQrRFw15QTe9njqW5EGYMJoeGiTMbEKx5_80mK2GA2FbxOPaVtb9Qjhxzg7mxvNBw8k_h8-pTjm4mCYU" height="200" width="auto" /><br><br>ул. Днепропетровская 1А<br>Dnipropetrovs'ka St. 1A<br>Dniprodzerzhyns'k 51900<br>тел. +380 5692 71181<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4772)<br>- wikimapia.org (http://wikimapia.org/16118174/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBmEZJ)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/-ik7Qh4M0o_wXrJf0YH39TBIc_BuQrRFw15QTe9njqW5EGYMJoeGiTMbEKx5_80mK2GA2FbxOPaVtb9Qjhxzg7mxvNBw8k_h8-pTjm4mCYU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.697345000000006,48.473832,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Днепродзержинск</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/14998801/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%90%D0%97%D0%A1)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBmM2G)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.586779,48.528962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Novomoskovsk</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/18772997/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.176367,48.640268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Кривой Рог</name>
+				<description><![CDATA[Кривой Рог, ул. Цимлянска, 8.<br>Tel. +380 564 789635<br><br>Sources:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-5.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4771)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>33.412613,47.885615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Кривой Рог</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Wu-DVVR9ZI4015r_E5nNHbCE-GPlijlqtTk-yOGAQU_3rhbA53chHvVXUXx4uJeG_fXNDCZSXawmgSkfLplHsYHtPXboFQ" height="200" width="auto" /><br><br>Faktor<br><br>Sources:<br>- wikimapia.org (http://wikimapia.org/21107138/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%C2%AB%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%C2%BB)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBmD74)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/Wu-DVVR9ZI4015r_E5nNHbCE-GPlijlqtTk-yOGAQU_3rhbA53chHvVXUXx4uJeG_fXNDCZSXawmgSkfLplHsYHtPXboFQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.47708,48.040827,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Кривой Рог</name>
+				<description><![CDATA[Source:<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=35783)<br>- yandex.ua (http://maps.yandex.ua/-/CVbBmLZd)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>33.311566,47.927353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Nikopol</name>
+				<description><![CDATA[Source:<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>34.417269,47.600564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Nikopol</name>
+				<description><![CDATA[Source:<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbBuTOS)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>34.287992,47.592823,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Днепропетровская обл. - Ordzhonikidze</name>
+				<description><![CDATA[Kwadrat<br><br>Source:<br>- gazmap.ru<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/20707044/ru/%D0%90%D0%97%D0%A1-%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>34.079322,47.65999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл.  - Донецьк</name>
+				<description><![CDATA[Форсаж-газ ПАГЗ<br>вул. Купріна, 292<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5065)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.740338,47.974499,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк-2</name>
+				<description><![CDATA[Донецк-2, ул. Новороссийска, 35. <br>Tel. +380 62 3121981<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4788)<br>- wikimapia.org (http://wikimapia.org/2486263/ru/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%BC)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.793602,48.070122,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк-3</name>
+				<description><![CDATA[Донецк-3<br>ул. Чемпиона, 80"А".<br>Tel. +380 622 635135<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4789)<br>- wikimapia.org (http://wikimapia.org/23244864/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%C2%AB%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA-3%C2%BB)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.821336,47.951988,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк-6</name>
+				<description><![CDATA[Гелиос<br>трасса Киев-Луганск<br>Донецк<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- wikimapia.org (http://wikimapia.org/24192266/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- Google StreetView (https://maps.google.de/?ie=UTF8&t=m&layer=c&cbll=48.079628,37.782685&panoid=EERWWpJ7M7pk0uFZwcw2Fw&cbp=13,63.74,,0,6.24&ll=48.077265,37.783914&spn=0.004502,0.012059&z=16)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.783345,48.079774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк «Газсервис»</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/FgipJaRCVXUWjHHNPpgLL2v0v--yr102Y8jIpcfZZ1niwJ3bT3z3w5MKhmRVP5gkun_2FyChLIbH5Dx_NALKueIvT-lJFh9nbtMpe2hMZnI" height="200" width="auto" /><br><br>2. Донецк «Газсервис»<br>Петровский р-н, ул. Автобазовская 1, <br>Tel. +380 67 6237185<br><br><br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/FgipJaRCVXUWjHHNPpgLL2v0v--yr102Y8jIpcfZZ1niwJ3bT3z3w5MKhmRVP5gkun_2FyChLIbH5Dx_NALKueIvT-lJFh9nbtMpe2hMZnI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>37.61120100000001,47.957072,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк - «Форсаж-газ».</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/wZm7L9cI2DKIq4yvYUYw0FGLADnuUUjabsMsiBdYw8FD5RhlBCpoWh5gPQIBZnbO06XWCpkqrxvDMXNee5k2m_dasfUDNaE_j20wljee2g" height="200" width="auto" /><br><br>7. Донецк - «Форсаж-газ».<br>Ворошиловский р-н., пр-т. Артема 4b, <br>Tel. +380 50 3020282<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- forsage.com.ua (http://forsage.com.ua/ru/agnks01/)<br>- wikimapia.org (http://wikimapia.org/13950754/uk/%D0%90%D0%93%D0%97%D0%A1-%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=47.986632,37.804562&panoid=A1_5mJ2OVhjKI_WSRr84xQ&cbp=13,297,,1,0.68&ll=47.986095,37.804883&spn=0.001127,0.003015&z=18)<br>- yandex.ua (http://maps.yandex.ua/-/CVbByX5B)<br><br>  (http://www.panoramio.com/photo/6421027)<br><br><img src="https://lh5.googleusercontent.com/proxy/THmqHIWGve1zSGkOK9oEGIlWv3_XJyHAqITnSd0wcmMkpxocf0LO4g-4-crdq9lINCENheWs24rF6iQ" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/wZm7L9cI2DKIq4yvYUYw0FGLADnuUUjabsMsiBdYw8FD5RhlBCpoWh5gPQIBZnbO06XWCpkqrxvDMXNee5k2m_dasfUDNaE_j20wljee2g https://lh5.googleusercontent.com/proxy/THmqHIWGve1zSGkOK9oEGIlWv3_XJyHAqITnSd0wcmMkpxocf0LO4g-4-crdq9lINCENheWs24rF6iQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>37.803896,47.986827,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк - Стратонавтов</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/lSo45c5vnzuLvPXO1wPPe1m832KJvAPGg5AYaLWKz3G-hTvw0gzzZsz71uUR1TjlZqJm_Pt-ZWyOjXy0FWtVpNhjD_I990XzNeWsQEd2XZY" height="200" width="auto" /><br><br>3. Донецк - Стратонавтов<br>ул. Стратонавтов 261а, <br>Tel. +380 62 3036802<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=48.053206,37.700904&panoid=SBBAt1rngJHm8fGnBBKaDw&cbp=13,86.26,,0,2.08&ll=48.051109,37.702267&spn=0.004504,0.012059&z=16)<br>- yandex.ua (http://maps.yandex.ua/-/CVbB5M5x)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/lSo45c5vnzuLvPXO1wPPe1m832KJvAPGg5AYaLWKz3G-hTvw0gzzZsz71uUR1TjlZqJm_Pt-ZWyOjXy0FWtVpNhjD_I990XzNeWsQEd2XZY</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>37.702471,48.053311,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк - Шахта иг. Засядька</name>
+				<description><![CDATA[1. Донецк - Шахта иг. Засядька<br>территория шахты иг. Засядька<br><br><br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.78731500000001,48.055272,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк - ул. Шутова</name>
+				<description><![CDATA[ЧП «Гелиос».<br>5.  Донецк - ул. Шутова 1a<br><br>Ленинский р-н.<br><br><br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- Google StreetView (http://maps.google.de/maps?q=%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA+%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%80-%D0%BD,+%D1%83%D0%BB.+%D0%A8%D1%83%D1%82%D0%BE%D0%B2%D0%B0+1%D0%B0&hl=de&ie=UTF8&ll=47.944773,37.765975&spn=0.002652,0.013937&sll=47.965905,37.803268&sspn=0.093676,0.222988&t=h&hnear=Shutova+St,+1,+Donets%27k,+Donets%27ka+oblast,+Ukraine&z=17&layer=c&cbll=47.944773,37.765972&panoid=_lk1LLj_NsY87WDy43_f3Q&cbp=11,292.45,,1,-5.58)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.76446,47.946324000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Донецк - ул. Полиграфическая</name>
+				<description><![CDATA[9. Донецк - ул. Полиграфическая<br>Частное АТП. г. Донецк Киевский р-н.<br>ул. Полиграфическая<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.768979,48.050446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Donetsk</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/7904482/NGV-filling-stations)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=47.969789,37.939017&panoid=5cL-1UwDYF4DTPnAT7SsYA&cbp=13,168.36,,0,-0.83&ll=47.96952,37.939179&spn=0.000564,0.001507&z=19)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.93902,47.968987,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Горлівка</name>
+				<description><![CDATA[УкрАвтоГаз<br>вул. Інтернаціональна<br>Tel.: +380 6242 73854<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4790)<br><br>Further informaiton:<br>- wikimapia.org (http://wikimapia.org/20348176/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-%D0%93%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5-%D0%BC%D0%BE%D1%80%D0%B5)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>38.030789,48.270944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Горлівка</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/19371658/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B0%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.965451,48.320233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Горлівка</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/22079788/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-Jazz)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>38.052236,48.339995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Горловка-1</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/NkFTXPNDxQRV0-oN628RwsRIHtavRN_KubWvM7su_ZeaIhLq1JXIcii55UXkxIG9hhNATd_34OkEriVRMKhSzRv4qhh_-XPvzMasH2AXfJAN" height="200" width="auto" /><br><br>Горловка-1, ул. Интернациональная<br>Tel.: +380 6242 74985<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- sumygazmash.com (http://www.sumygazmash.com/a4_en.html)<br><br><img src="https://lh6.googleusercontent.com/proxy/uT-64I-BzyLq5iCCEQCmLZjh5r1gyPs5VxSuTvwctlTxfmIsoWERsMHR3NFZwDbhK11zvvZ5oijT7rV5iYT7" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/NkFTXPNDxQRV0-oN628RwsRIHtavRN_KubWvM7su_ZeaIhLq1JXIcii55UXkxIG9hhNATd_34OkEriVRMKhSzRv4qhh_-XPvzMasH2AXfJAN https://lh6.googleusercontent.com/proxy/uT-64I-BzyLq5iCCEQCmLZjh5r1gyPs5VxSuTvwctlTxfmIsoWERsMHR3NFZwDbhK11zvvZ5oijT7rV5iYT7</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>38.02075,48.269333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Горловка-2</name>
+				<description><![CDATA[Горловка-2<br>ул. Минина и Пожарского, 62"А"<br>Tel.: +380 6242 5245<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4791)<br>- wikimapia.org (http://wikimapia.org/21765325/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.979195,48.297527,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Енакиево</name>
+				<description><![CDATA[Енакиево, ул. Волга, 2.<br>Tel.: +380 6252 27111<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4796)<br>- wikimapia.org (http://wikimapia.org/18027918/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>38.1769,48.213253,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Макеевка</name>
+				<description><![CDATA[УкрАвтоГаз<br>ул. Руднева 19<br>86100 Макеевка<br>Tel.: +380 50 3893307<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4794)<br>- wikimapia.org (http://wikimapia.org/13547361/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.985466,48.092119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Макеевка</name>
+				<description><![CDATA[Будсервис<br>ул. Андропова<br>Tel.: +380 62 3480333<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- wikimapia.org (http://wikimapia.org/6192895/NGV-filling-stations)<br>- yandex.ua (http://maps.yandex.ua/-/CVbBjY9F)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.918346,48.024491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Макіївка</name>
+				<description><![CDATA[УкрАвтоГаз<br>вул. Кореневського, 1<br>Tel.: +380 6232 61060<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4793)<br>- wikimapia.org (http://wikimapia.org/8335618/NGV-filling-stations)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.930877,48.02185,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Макіївка</name>
+				<description><![CDATA[Position unknown!<br>Форсаж-газ ПАГЗ<br>вул. Донецька, 25<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5066)<br>but not found on forsage.com.ua (http://forsage.com.ua/ru/agnks/) !<br>And at the position in azs.uapetrol.com panoramio (http://www.panoramio.com/photo/73264720) and yandex.ua show a parallel.ua station!]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.96178200000001,48.043244,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Харцизьк</name>
+				<description><![CDATA[Форсаж-газ ПАГЗ<br>вул. Філатова, 1<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5064)<br>but not found on forsage.com.ua (http://forsage.com.ua/ru/agnks/) !]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>38.094867,48.046838,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Константиновка</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/05bgutKVzO7YN7Kqhflyo35Ih66bnq0WsuSEcaSgN7CdpdPwfjvQ0UHNRgE9i8vTAJe3C5NmBGbCZKEvI-8SezjM8XkZgw" height="200" width="auto" /><br><br>АГНКС УкрАвтоГаз<br>Константиновка, ул. Мирошниченко.<br>Tel.: +380 6272 22663<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4797)<br>- wikimapia.org (http://wikimapia.org/22877070/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%A3%D0%BA%D1%80%D0%90%D0%B2%D1%82%D0%BE%D0%93%D0%B0%D0%B7)<br><br>  (http://wikimapia.org/22877070/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%A3%D0%BA%D1%80%D0%90%D0%B2%D1%82%D0%BE%D0%93%D0%B0%D0%B7)<br><br><img src="https://lh4.googleusercontent.com/proxy/z7QGQfhkr91RWnVGT4td0aX_amVqJnilr7MPB-zLEZd6g8ofSs4eYGbZBmhAquvgkQdusKaIO_wO2SgNLDL3nupbWbuwxw" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/05bgutKVzO7YN7Kqhflyo35Ih66bnq0WsuSEcaSgN7CdpdPwfjvQ0UHNRgE9i8vTAJe3C5NmBGbCZKEvI-8SezjM8XkZgw https://lh4.googleusercontent.com/proxy/z7QGQfhkr91RWnVGT4td0aX_amVqJnilr7MPB-zLEZd6g8ofSs4eYGbZBmhAquvgkQdusKaIO_wO2SgNLDL3nupbWbuwxw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>37.710829,48.485805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Славянск</name>
+				<description><![CDATA[УкрАвтоГаз<br>Route from Kramatorsk to Slov'yans'k<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4792)<br>- wikimapia.org (http://wikimapia.org/21780883/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.617005,48.808778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Slovyansk</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/18295317/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.61907,48.866006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Slovyansk</name>
+				<description><![CDATA[АГНКС "ЖЭТА"<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/18311620/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%96%D0%AD%D0%A2%D0%90)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.658874,48.845344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Slovyansk</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/18715190/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.623024,48.83673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Краматорськ</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз<br>вул. Вишні Остапа<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4798)<br>- wikimapia.org (http://wikimapia.org/19953922/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.605793,48.715332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Краматорськ</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/18698220/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.585237,48.75911,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Дружкивка</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз<br>ул. Новосадовая, 53.<br>тел. +380 6267 31824<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4802)<br>- wikimapia.org (http://wikimapia.org/7984759/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.5526,48.598721,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Амвросиевка</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-BiNNZjsgbZ-dgrN2gyhZN6s5ROijDiHL61HBCRT1tudYGFiZkeFMJR92z5clbbJkkBR75IqnV8EJTI8Npa_Nls3fWWi7RZzDW66bIxrNLE" height="200" width="auto" /><br><br>Амвросиевка, ул. Фрунзе, 32<br>Tel.: +380 6259 22476<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-6.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4800)<br>- wikimapia.org (http://wikimapia.org/15623926/ru/%D0%90%D0%93%D0%9D%D0%A1-%D0%B0%D0%B2%D1%82%D0%BE%D0%B3%D0%B0%D0%B7%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/-BiNNZjsgbZ-dgrN2gyhZN6s5ROijDiHL61HBCRT1tudYGFiZkeFMJR92z5clbbJkkBR75IqnV8EJTI8Npa_Nls3fWWi7RZzDW66bIxrNLE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>38.450966,47.806144,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Мариуполь</name>
+				<description><![CDATA[УкрАвтоГаз<br>ул. Таганрогская 62<br>87500 Мариуполь<br>Tel.: +380 629 223169<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4799)<br>- wikimapia.org (http://wikimapia.org/8813863/ru/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B7%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)<br>- yandex.ua (http://maps.yandex.ua/-/CVbBvAKm)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.669861,47.129363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Мариуполь</name>
+				<description><![CDATA[ул. Тополина<br>Tel.: +380 629 491850<br><br>Further information:<br>- yandex.ua (http://maps.yandex.ua/-/CVbBvM11)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.549167,47.148006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Mariupol</name>
+				<description><![CDATA[TNK station<br>Not sure if it has CNG, too!<br>Source:<br>- wikimapia.org (http://wikimapia.org/19011146/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br><br>Further information:<br>- yandex.ua (http://maps.yandex.ua/-/CVbB7A4b)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.50704,47.099994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Донецкая обл. - Селидово</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/gr-VhNEN3y2s4vjX0iojyuSKAbiSp344n2qgz4CO1QJRZ0Yv-0usBOU065XWViCCXeEGacE6LH3aQ1s" height="200" width="auto" /><br><br>ул. Московская, 51<br>Селидово<br>(Ориентир: р-н больницы)<br>Tel.: +380 432 579151<br>Tel.: +380 6237 72227<br><br>Source:<br>- forsage.com.ua (http://forsage.com.ua/ru/agnks02/)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5059)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/gr-VhNEN3y2s4vjX0iojyuSKAbiSp344n2qgz4CO1QJRZ0Yv-0usBOU065XWViCCXeEGacE6LH3aQ1s</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>37.304699,48.134962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Житомир</name>
+				<description><![CDATA[Сквирское шоссе<br>ул. Жвачка, 45a<br>Tel: +380 412 345415<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-7.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4749)<br>- wikimapia.org (http://wikimapia.org/24487870/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbB7YLY)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>28.675615,50.231999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Житомир 2</name>
+				<description><![CDATA[ПАПОК «Итера Украина»<br>с. Глибочиця, ул. Киевская 9<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-7.html)<br>- wikimapia.org (http://wikimapia.org/21075182/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80-%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB-%D0%B3%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>28.793202999999995,50.286734,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Житомир</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/qxlTwWQPKLRVmK58P6CoGeXzkjZPy7aCxm6sMD7lB4sFyskAgC4ZlFApjjpkjl4gFwKiYsMzLkMre9-n3JVTt-esWg" height="200" width="auto" /><br><br>Faktor<br>вул. Малинська 10-в<br>Tel.: +380 412 362256<br><br>Source:<br>- factor.com.ua<br><br><br><br>Other information:<br>- wikimapia.org (http://wikimapia.org/25224935/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/qxlTwWQPKLRVmK58P6CoGeXzkjZPy7aCxm6sMD7lB4sFyskAgC4ZlFApjjpkjl4gFwKiYsMzLkMre9-n3JVTt-esWg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.676194,50.281565,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Бердичев</name>
+				<description><![CDATA[УкрАвтоГаз<br>вул.Червоний Промінь, 31<br>Tel.: +380 4143 63296<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/18461123/uk/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D0%B2%D0%BD%D1%8E%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D0%BE%D1%80%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4746)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>28.619288,49.931141,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Бердичев 2</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/SXeJdnmi2z4QMazlHeiHFl106vUnsOyz3Ms07sbFw-M2f2_iog4YjvXMHQQ8Othjn23fM52xk1QJPwOfWmE1BU8dCJqcvA" height="200" width="auto" /><br><br>ул. Белопольская 123<br>Tel: +380 412 446938<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-7.html)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- wikimapia.org (http://wikimapia.org/19910187/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- cngprices.com (http://www.cngprices.com/station_map.php?bounds=%28%2849.83543598213665%2C%2028.53372573852539%29%2C%20%2849.92282493579096%2C%2028.763751983642578%29%29&fuel_type=1)<br><br><img src="https://lh6.googleusercontent.com/proxy/KsPJcTzhiTRIr5eRxDLvDybd0U6F-ANaEUo6VLEzDjhbsQz4e0RZnwZHfJ8jxe92LFhYWnWqHKKgDEpXGUpKhQhLxOxEozvLGnpOnEkhj-0u" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/SXeJdnmi2z4QMazlHeiHFl106vUnsOyz3Ms07sbFw-M2f2_iog4YjvXMHQQ8Othjn23fM52xk1QJPwOfWmE1BU8dCJqcvA https://lh6.googleusercontent.com/proxy/KsPJcTzhiTRIr5eRxDLvDybd0U6F-ANaEUo6VLEzDjhbsQz4e0RZnwZHfJ8jxe92LFhYWnWqHKKgDEpXGUpKhQhLxOxEozvLGnpOnEkhj-0u</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.645499,49.884287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Korosten</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/NRuPaCMc0l9oDa6Uffm6GO5Fgjps7iQfZ3AMl-jVhIHseMWok8SffmYmF4wWZi1Y4Lq3jc1BaCI5YU_sNxsMzeA2" height="200" width="auto" /><br><br>Position not sure.<br>Faktor Metan<br>Tel.: +380 4142 41468<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)<br>- gazmap.ru<br><br><br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/13844921/ru/АЗС)<br><br><img src="https://lh6.googleusercontent.com/proxy/7f_omx5HiJmyCZLTnnKCu3peALJXsKxFqG4Lj_S3gc-5c_mImz0eGcoCwX7o9ZzxLw6E4Le4sa1kdc8Djgksje2BoQ" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/NRuPaCMc0l9oDa6Uffm6GO5Fgjps7iQfZ3AMl-jVhIHseMWok8SffmYmF4wWZi1Y4Lq3jc1BaCI5YU_sNxsMzeA2 https://lh6.googleusercontent.com/proxy/7f_omx5HiJmyCZLTnnKCu3peALJXsKxFqG4Lj_S3gc-5c_mImz0eGcoCwX7o9ZzxLw6E4Le4sa1kdc8Djgksje2BoQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.656271,50.962039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Ovruch</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/h_IvTXkexm34nRiv4bani4hY6-WRZuuKjRLzWh4zOp9475dxiP0bL47lum3-CP_O0BbSrl8g4QyiOpJacw0ZiWCp" height="200" width="auto" /><br><br>Faktor<br>вул. Радянська, 130<br>Tel.: +380 4148 23183<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)<br>- gazmap.ru<br><br><br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/18043814/uk/%D0%90%D0%97%D0%A1-%D0%A4%D0%90%D0%9A%D0%A2%D0%9E%D0%A0)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/h_IvTXkexm34nRiv4bani4hY6-WRZuuKjRLzWh4zOp9475dxiP0bL47lum3-CP_O0BbSrl8g4QyiOpJacw0ZiWCp</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.807526000000003,51.336403000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Житомирская обл. - Ovruch</name>
+				<description><![CDATA[Source:<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>28.812493,51.331101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Запорожье-1</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/5MVJGk9SiABGhLjpen302IrwXXEJK_F0_5uyFnlcSHQEvHgpdldxS_V2LsB7uZQq8VB_lPRKK53P_d9ryCljnL3D1J5FaA-YIDTWB2QaoiA" height="200" width="auto" /><br><br>Запорожье-1, Южное шоссе, 59"А"<br>Tel.: +380 612 246738<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-9.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4773)<br>- wikimapia.org (http://wikimapia.org/19531054/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbFAW7S)<br><br><img src="https://lh5.googleusercontent.com/proxy/8nGOdv6_BZRUDZogMVTykHCDVO4MLBrRODau_uxeWyu81c7cM0KomBRVOqbAQf31oV0Hzd6cJ7se2qfk6VzvbUDQynQeUnIdiL8CmlnSERI" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/5MVJGk9SiABGhLjpen302IrwXXEJK_F0_5uyFnlcSHQEvHgpdldxS_V2LsB7uZQq8VB_lPRKK53P_d9ryCljnL3D1J5FaA-YIDTWB2QaoiA https://lh5.googleusercontent.com/proxy/8nGOdv6_BZRUDZogMVTykHCDVO4MLBrRODau_uxeWyu81c7cM0KomBRVOqbAQf31oV0Hzd6cJ7se2qfk6VzvbUDQynQeUnIdiL8CmlnSERI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>35.131059,47.85746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Запорожья-2</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз<br>вул.Вороніна 29bБ<br>Тел: +380 612 677315<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-9.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4774)<br>- wikimapia.org (http://wikimapia.org/11455614/Methane-gas-station)<br>- gazmap.ru<br><br>Further information:<br>- yandex.ua (http://maps.yandex.ua/-/CVbFA8NL)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.24825,47.858749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Запорожье - "Техсервис" </name>
+				<description><![CDATA[9. Запорожье - "Техсервис"<br>Запорожье, ул. Южное шоссе, 66<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-9.html)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>35.15404,47.857039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Запорожья - ул. Сковороды</name>
+				<description><![CDATA[10. Запорожья - ул. Сковороды<br>ул. Сковороды, 19. (на территории автобусного парка АТП "Автотранс Хортица")<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-9.html)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJAFjX)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.00654,47.87363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Запорожье - Концерн «Укргаз» 1</name>
+				<description><![CDATA[1. Запорожье - Концерн «Укргаз»<br>ООО «Проба». Запорожье, Донецкое шоссе, 2«а»<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-9.html)<br>- wikimapia.org (http://wikimapia.org/26059529/ru/%D0%90%D0%97%D0%A1-%D0%9C%D0%95%D0%A2%D0%90%D0%9D%D0%9E%D0%92%D0%90%D0%AF)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.249237,47.854271,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Запорожье - Концерн «Укргаз» 2</name>
+				<description><![CDATA[2. Запорожье - Концерн «Укргаз», ООО «Проба».<br>Запорожье, с. Новое-Запорожье<br>Никопольское шоссе, 1«в»<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-9.html)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>34.932747,47.831826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Підгірне</name>
+				<description><![CDATA[АГЗС Алекс і К<br>автодорога Харків-Сімферополь 343км<br>Тел: +380 6175 73716<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4729)<br>- wikimapia.org (http://wikimapia.org/19996272/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%B8-%D0%90%D0%93%D0%97%D0%9F-%D0%A2%D0%9E%D0%92-%D0%90%D0%BB%D0%B5%D0%BA%D1%81-%D0%B8-%D0%9A)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>35.313293,47.430218,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Мелитополь</name>
+				<description><![CDATA[ул. Ломоносова, 341<br><br>Source:<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>35.375537,46.88897,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Луначарське</name>
+				<description><![CDATA[вул. Космічна 80<br>Тел.: +380 6153 92897<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4728)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>36.656597000000005,46.80282100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Бердянск</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Dnb_60Ima4w0xskzWRY2b7sz1DvxnXjFqESdit6sxv9g5hlFQgxRCYaWwnbrgVVkfCs4kG5yjQ0jMz3EWwoCZ--3IsfFBK0Ln_-sR6T9Qjg" height="200" width="auto" /><br><br>Бердянск, Пролетарский проспект, 2b.<br>Tel.: +380 6153 25502<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-9.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4795)<br>- wikimapia.org (http://wikimapia.org/18496210/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%A3%D0%BA%D1%80%D0%90%D0%B2%D1%82%D0%BE%D0%93%D0%B0%D0%B7)<br><br><img src="https://lh3.googleusercontent.com/proxy/hiI8i4M8o4uvH0q6y4izTk7rvONSMDMUDZp_gj9NutS7WOl9gJeZa1jquyrskhwP7FeKzb0rmHuwC-7gPJazIX4V-xrfRB-RHmXyFtJKIDM" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Dnb_60Ima4w0xskzWRY2b7sz1DvxnXjFqESdit6sxv9g5hlFQgxRCYaWwnbrgVVkfCs4kG5yjQ0jMz3EWwoCZ--3IsfFBK0Ln_-sR6T9Qjg https://lh3.googleusercontent.com/proxy/hiI8i4M8o4uvH0q6y4izTk7rvONSMDMUDZp_gj9NutS7WOl9gJeZa1jquyrskhwP7FeKzb0rmHuwC-7gPJazIX4V-xrfRB-RHmXyFtJKIDM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>36.789651,46.798451,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Бердянск</name>
+				<description><![CDATA[АГЗС Алекс і К<br>вул. Шаумяна 1<br>Тел.: +380 6153 20301<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=263)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.770913,46.77080600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Tokmak</name>
+				<description><![CDATA[Source:<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>35.742924,47.264917,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Запорожская обл. - Polohy</name>
+				<description><![CDATA[Source:<br>- gazmap.ru<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/7918584/uk/%D0%90%D0%A2%D0%9F-12327)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>36.270622,47.46624800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Ужгород</name>
+				<description><![CDATA[Source:<br>- www.energo.ua (http://www.energo.ua/ru/agnks.php)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJmJnv)<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/13784479/uk/%D0%90%D0%97%D0%A1)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1423001)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>22.262238,48.614853,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Ужгород, - ул. Краснодонцов</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/fgYI7oHEcekvtPDjanR87in6z7SUeBW6RKHxWEUY0vSEqBKmMUNu2fQ6KLYo-txnewgx7DElOoWwOZ-Y49QJFRMO6OX_dGTmbpV4Q-flG6Y" height="200" width="auto" /><br><br>УкрАвтоГаз<br>ул. Краснодонцов, 25, Ужгород<br>Tel.: +380 312 660524<br><br>Source:<br>- www.angks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-8.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4824)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbJm6iS)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/fgYI7oHEcekvtPDjanR87in6z7SUeBW6RKHxWEUY0vSEqBKmMUNu2fQ6KLYo-txnewgx7DElOoWwOZ-Y49QJFRMO6OX_dGTmbpV4Q-flG6Y</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>22.32401,48.601069,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Ужгород, M-08</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/1raRF-z6HVIc5S4rJJqp3Edln8P7xxaUKdK-Vjne5lQjtWTTbI6UqBwU_9fgni0XG9ScHPVu5tIFIceDjb4" height="200" width="auto" /><br><br>Energo<br>M-08<br>Tel.: +380 312 661647<br><br>Source:<br>- www.energo.ua (http://www.energo.ua/agnks.php)<br>- gazmap.ru<br><br>  (http://www.energo.ua/gal_uzhgorod.php)<br><br><img src="https://lh5.googleusercontent.com/proxy/AO-MDTvtdNp88fCHi5JmK589eFIHp1PqWAfUZSd4oPHu1IkIR7c5kXhlEd3Q-mdDf_QMgrQ_JG7xddZGKRI" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/1raRF-z6HVIc5S4rJJqp3Edln8P7xxaUKdK-Vjne5lQjtWTTbI6UqBwU_9fgni0XG9ScHPVu5tIFIceDjb4 https://lh5.googleusercontent.com/proxy/AO-MDTvtdNp88fCHi5JmK589eFIHp1PqWAfUZSd4oPHu1IkIR7c5kXhlEd3Q-mdDf_QMgrQ_JG7xddZGKRI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>22.328706,48.590266,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Мукачево</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/-znDRQXyYs3dhx9ho4tX_elqinTgFVdp5ycJjlKlN3xKxNeTU5yH5YkVZltpwEvKy_r1TmZQNzORzv8e9n4H3Q" height="200" width="auto" /><br><br>Source:<br>- www.energo.ua (http://www.energo.ua/agnks.php#mukachevo)<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=18931)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/-znDRQXyYs3dhx9ho4tX_elqinTgFVdp5ycJjlKlN3xKxNeTU5yH5YkVZltpwEvKy_r1TmZQNzORzv8e9n4H3Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>22.762041,48.433728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Берегово</name>
+				<description><![CDATA[Opis i zdjęcia stacji na www.energo.ua (http://www.energo.ua/gal_beregovo.php)<br>Inne stacje CNG EnerGo na www.energo.ua (http://www.energo.ua/agnks.php)<br>Source:<br>- www.energo.ua (http://www.energo.ua/agnks.php#beregovo)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=6769)<br>missing image (http://www.energo.ua/gal_beregovo.php)<br>Further information:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1382003)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>22.633885,48.241133,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Хуст</name>
+				<description><![CDATA[Source:<br>- www.energo.ua (http://www.energo.ua/agnks.php#khust)<br>missing image (http://www.energo.ua/gal_khust.php)<br><br>further information:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1330003)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>23.312645,48.197361,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Хуст</name>
+				<description><![CDATA[УкрАвтоГаз<br>автодорога Мукачево - Івано-Франківськ 67км<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4826)<br><br>Further information:<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3817)<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1335004)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>23.317022,48.196045000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Закарпатская обл. - Свалява</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/H6gCI7AE1fgTsrCh1jx1CRmeUi9Y0rLu9PC1GENGC47YMVe66l15hjtHY3p3ZJg8GASZPgOB4UxbAl1sHBiGu0PTc447dhsR84jxpNOa0u4" height="200" width="auto" /><br><br>УкрАвтоГаз<br>ул. Верховинская, 21"Б", Свалява<br>Tel: +380 3133 22939<br>выезд в сторону Мукачеве<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-8.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4825)<br>- wikimapia.org (http://wikimapia.org/24831506/uk/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0-%D0%90%D0%97%D0%A1)<br> <br><br>Further information:<br>- azgsmap.ru (http://www.azgsmap.ru/station/1375003)<br><br><img src="https://lh4.googleusercontent.com/proxy/nD96Dxab4DTaoSVHypCn6CHlfqKtHw_gFkABtFL6wTO_gW-KqjvLzFxdW1oR3rcyBq6GS_ae91Pp6z3wJLvwx1EFCcRoW91IWgRGAcnPPxE" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/H6gCI7AE1fgTsrCh1jx1CRmeUi9Y0rLu9PC1GENGC47YMVe66l15hjtHY3p3ZJg8GASZPgOB4UxbAl1sHBiGu0PTc447dhsR84jxpNOa0u4 https://lh4.googleusercontent.com/proxy/nD96Dxab4DTaoSVHypCn6CHlfqKtHw_gFkABtFL6wTO_gW-KqjvLzFxdW1oR3rcyBq6GS_ae91Pp6z3wJLvwx1EFCcRoW91IWgRGAcnPPxE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>22.974976,48.556603,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ивано-Франковская обл. - Чернеев</name>
+				<description><![CDATA[УкрАвтоГаз<br>Ivano-Frankowvsk  г. Ивано-Франковск Tismenitskij rajon  Тисменицкий р-н <br>Cierniejew  с.Чернеев, <br>Hriplinskaja street  ул. Хриплинская 1. <br>Tel. +380 3422 24898<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-10.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4821)<br>- wikimapia.org (http://wikimapia.org/17250913/ru/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B7%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.71109,48.865653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ивано-Франковская обл. - Долина</name>
+				<description><![CDATA[УкрАвтоГаз<br>Ивано-Франковская область.<br>г. Долина, с. Новоселиця, трасса Долина – Хуст.<br>тел. +380 3477 23259<br>(выезд в сторону Хуста)<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-10.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4822)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJuPmG)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>23.938597,48.954847,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ивано-Франковская обл. - Дем'янів</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/5Hv5ihH0YlGg2XlLyAnAMar9SwxTiRG8QWcvdXp_K9aa54Y004M0wHMMwjH8fxf39QiVeYKoA7JWaows2jEsvkkCU-MUHNUArSOKMuYmqacEg7SZ6H5zDs5au_Dwkl2uhXeW3Cd5v52vsCrgSQ" height="200" width="auto" /><br><br>OKKO<br>вул.Львівська, 69<br>Дем'янів<br>Тел: +380 3438 58540<br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=521)<br>- okko.ua<br> (http://www.okko.ua/uk/network_map)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/5Hv5ihH0YlGg2XlLyAnAMar9SwxTiRG8QWcvdXp_K9aa54Y004M0wHMMwjH8fxf39QiVeYKoA7JWaows2jEsvkkCU-MUHNUArSOKMuYmqacEg7SZ6H5zDs5au_Dwkl2uhXeW3Cd5v52vsCrgSQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>24.646604,49.228984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ивано-Франковская обл. - Ивано-Франковск - Khryplyn</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/DabQi22pfLdfWLCq3qJ2d_wBFRwb4a-GJoY89yE9DITaaoTemldkuh5jfS36UE-DNGH4P8B_07mNzJJGWMKPM0wtQA" height="200" width="auto" /><br><br>Source:<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br><br>Further information:<br>Is this the Faktor (http://ua.factor.com.ua/view.nets/) station?<br>It is at the address "Микитинці, вул. Mарковецького 4" that I cannot find.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/DabQi22pfLdfWLCq3qJ2d_wBFRwb4a-GJoY89yE9DITaaoTemldkuh5jfS36UE-DNGH4P8B_07mNzJJGWMKPM0wtQA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>24.751838,48.893287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Требухов</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/iOB2t9fHWRz1nwieBX4kqkNGqjDLZ4pPb6f3jhTMXOQNP6rnNK1CMcC5JU384fxJloZRHhveXD4CNep53Ix-Brgu0HHBnD8jwEsbEh5LtbE" height="200" width="auto" /><br><br>Киевская область. г. Бровары<br>Броварской район, с. Требухов, ул. Победы, 3.<br>Tel.: +380 4494 66926<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/fuels.html?fuel=23)<br>- wikimapia.org (http://wikimapia.org/22916911/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%A3%D0%BA%D1%80%D0%90%D0%B2%D1%82%D0%BE%D0%93%D0%B0%D0%B7)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/iOB2t9fHWRz1nwieBX4kqkNGqjDLZ4pPb6f3jhTMXOQNP6rnNK1CMcC5JU384fxJloZRHhveXD4CNep53Ix-Brgu0HHBnD8jwEsbEh5LtbE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>30.849845,50.509937,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Фастов</name>
+				<description><![CDATA[Киевская область. г. Фастов<br>Промзона «Завокзалие».<br>Tel.: +380 4465 67073<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4744)<br>- wikimapia.org (http://wikimapia.org/16105137/ru/%D0%B3%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>29.942937,50.057373,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Киев-1</name>
+				<description><![CDATA[Kиев-1, ул. Вербова, 20.<br>Tel.: +380 44 4193485<br>no NGV1 adapter available!<br><br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- wikimapia.org (http://wikimapia.org/7060317/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- Google Street View (https://maps.google.de/maps?hl=de&ll=50.4846,30.509087&spn=0.002437,0.009645&t=m&z=17&layer=c&cbll=50.484602,30.509084&panoid=jOGinwujLdu_4dtk6aPxfA&cbp=12,42.6,,0,-0.9)<br>- cngprices.com (http://www.cngprices.com/station_map.php?bounds=%28%2850.4646072249993%2C%2030.44938087463379%29%2C%20%2850.507749916027294%2C%2030.56439399719238%29%29&fuel_type=1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJBPIK)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>30.509795,50.485115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Киев-2</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/zT2ycrb8mJoUujfvEYup_nrq4JU4q-WW3VHLyZSPbDJnVfpBvN_YHEhaf8Iiw1CfVSQWL9TxWwS791KCnTd7BjgGaR_FkOh6-oxLl2SVEhQ" height="200" width="auto" /><br><br>Киев-2, ул. Григорьевича-Барского, 2.<br>Tel.: +380 44 4025982<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJFAm7)<br><br><img src="https://lh3.googleusercontent.com/proxy/OY6ePsXN8d4LjavMnXuut_b2bhzof20yGIkgP1GiusRsBT_a4uSG1EfecpdCFk9srcsigYAdEEh3X9FTWRSFxa4QQUjd2wcUGXZzvtS9TtU" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/zT2ycrb8mJoUujfvEYup_nrq4JU4q-WW3VHLyZSPbDJnVfpBvN_YHEhaf8Iiw1CfVSQWL9TxWwS791KCnTd7BjgGaR_FkOh6-oxLl2SVEhQ https://lh3.googleusercontent.com/proxy/OY6ePsXN8d4LjavMnXuut_b2bhzof20yGIkgP1GiusRsBT_a4uSG1EfecpdCFk9srcsigYAdEEh3X9FTWRSFxa4QQUjd2wcUGXZzvtS9TtU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>30.392459000000002,50.40849,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Киев-3</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/U-12FHUf1iEZEDpEwqI1308yqrVOjebNQP1scrPru-6qrktG9xPhAtQ5KpHs-PiEA8TV0w6CrFjZsE2gozcgcPDRU54ewg" height="200" width="auto" /><br><br>Киев-3, ул. Крайняя, 3.<br>Tel.: +380 44 5120241<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJFMYY)<br>- Google Street View (https://maps.google.de/maps?hl=de&ie=UTF8&t=h&layer=c&cbll=50.491488,30.616315&panoid=C7cNlOOvLKAjJtXWtY2diw&cbp=13,253.25,,1,-0.94&ll=50.491065,30.616692&spn=0.001072,0.003015&z=18)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/U-12FHUf1iEZEDpEwqI1308yqrVOjebNQP1scrPru-6qrktG9xPhAtQ5KpHs-PiEA8TV0w6CrFjZsE2gozcgcPDRU54ewg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>30.615216,50.491269,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Киев-4</name>
+				<description><![CDATA[Киев-4, ул. Краснознаменная, 162"Б"<br>Tel.: +380 44 5262406<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- Google StreetView (http://goo.gl/maps/E28ge)<br>- yandex.ua (http://maps.yandex.ua/-/CVb4AVPO)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>30.529418,50.342658,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Борисполь</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/vxwwuKjmS0IA_YtYetoYCZRSZ98DCDN4VYYp9KIgwXLxI2t4NyF_JnPBUg3_fxgGHeuh3bylxniGxOrZ5FqjFCsbjsQDoBs9oCbjPXE2J8w" height="200" width="auto" /><br><br>Борисполь, Привокзальная объездная дорога<br>Tel.: +380 4495 71638<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/vxwwuKjmS0IA_YtYetoYCZRSZ98DCDN4VYYp9KIgwXLxI2t4NyF_JnPBUg3_fxgGHeuh3bylxniGxOrZ5FqjFCsbjsQDoBs9oCbjPXE2J8w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>30.977325,50.37208700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Obukhiv</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/24997615/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJFRZ5)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>30.664945,50.137126,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Белая Церковь</name>
+				<description><![CDATA[Белая Церковь, ул. Сухоярская, 16.<br>Tel.: +380 4463 66015<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4743)<br>- wikimapia.org (http://wikimapia.org/23235404/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3753)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJFL7Y)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>30.129752999999997,49.822307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Белая Церковь</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/02_eNQ6HbJGigv7edgnKbOjNNGv5X-THc26aaoHVN7q5kJG1vn5sLOB7zoG_fv8Fic5D3npDT1doUzUgTQZxDEcwxAbjhsIyOpQli4MhLqk" height="200" width="auto" /><br><br>Source:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1278003)<br><br>  <br><br>Further information:<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3940)<br><br><img src="https://lh6.googleusercontent.com/proxy/UhzTRvWN5gBN8UPrsO0nkvUTEk5YnA0WfSgxDNlhhWECoCUMJimBbK9UoMDzK3HjnMNygv0vM522GmCQ9qeDIKOshlrUnQwQl8UUg9MPABE" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/proxy/DT9xlfraJx8mCPHKzA-L0vTWjnRHD6rrh_HzqrJvSPepWdxqFpybXpq_vCYfW_d8ULy4VUlvCRA9FdnJNqclMLZhy1LlwU7Pd8wsI3qp--U" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/02_eNQ6HbJGigv7edgnKbOjNNGv5X-THc26aaoHVN7q5kJG1vn5sLOB7zoG_fv8Fic5D3npDT1doUzUgTQZxDEcwxAbjhsIyOpQli4MhLqk https://lh6.googleusercontent.com/proxy/UhzTRvWN5gBN8UPrsO0nkvUTEk5YnA0WfSgxDNlhhWECoCUMJimBbK9UoMDzK3HjnMNygv0vM522GmCQ9qeDIKOshlrUnQwQl8UUg9MPABE https://lh3.googleusercontent.com/proxy/DT9xlfraJx8mCPHKzA-L0vTWjnRHD6rrh_HzqrJvSPepWdxqFpybXpq_vCYfW_d8ULy4VUlvCRA9FdnJNqclMLZhy1LlwU7Pd8wsI3qp--U</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>30.158152,49.840795,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Переяслав-Хмельницкий</name>
+				<description><![CDATA[Киевская область. г. Переяслав-Хмельницкий<br>ул. Богданова<br>(54 кг. шоссе Золотоноша-Борисполь)<br>Tel.: +380 4467 54634<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-11.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4758)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>31.501215000000002,50.064577,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Киевская обл. - Bododyanka - Pylypovychi</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/WJRJi_MFuHr_Fbd24CyrqsnDxWHxY5rTrGDBEgtegQQfvmRrBEvJujXAaYbFy8cX_QE0YfIdG3Y7Ws3_bn8yuIDxHPpDgQ" height="200" width="auto" /><br><br>Sources:<br>- wikimapia.org (http://wikimapia.org/16059900/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%C2%AB%D0%98%D1%82%D0%B5%D1%80%D0%B0%C2%BB)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/WJRJi_MFuHr_Fbd24CyrqsnDxWHxY5rTrGDBEgtegQQfvmRrBEvJujXAaYbFy8cX_QE0YfIdG3Y7Ws3_bn8yuIDxHPpDgQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>29.953183,50.623678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Кировоградская обл. - Кировоград, с. Новое</name>
+				<description><![CDATA[Кировоград, с. Новое, ул. Металлургов, 2. <br>Tel. +380 522 594353<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-12.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4783)<br><br>- azgsmap.ru (http://www.azgsmap.ru/station/1160002)<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=4851)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.156982,48.52084,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Кировоградская обл. - Кировоград</name>
+				<description><![CDATA[ул.40-летия Победы<br>Source:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1140023)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJjR4K)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.267683,48.460059,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Кировоградская обл. - Кировоград</name>
+				<description><![CDATA[Source:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1147023)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.272317,48.457512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Кировоградская обл. - Александрия</name>
+				<description><![CDATA[Кировоградская область. г. Александрия, Кукловское шоссе,  2a<br><br>Tel. +380 5235 22464<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-12.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4782)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1111022)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=483)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>33.154646,48.677173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Луганск</name>
+				<description><![CDATA[Луганск. ул. Веселогоривска. 164. <br>Tel. +380 642 424017<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-13.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4803)<br>- wikimapia.org (http://wikimapia.org/13816974/ru/%D0%90%D0%97%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>39.293321,48.606866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Луганск</name>
+				<description><![CDATA[Tenistaya ulitsa / ul. 50-letiya Oborony LuganskaSource:<br>- wikimapia.org (http://wikimapia.org/18685608/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbJj24M)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>39.360666,48.50156400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Луганск</name>
+				<description><![CDATA[Montazhnaya ulitsa<br><br>Source:<br>- gazmap.ru<br>- wikimapia.org (http://wikimapia.org/14859716/ru/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%B3%D0%B0%D0%B7)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJnEpw)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>39.407347,48.581782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Луганск</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/14859665/ru/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%B3%D0%B0%D0%B7)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>39.435704,48.585962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Teplichnoye</name>
+				<description><![CDATA[Source:<br>- gazmap.ru<br>- wikimapia.org (http://wikimapia.org/14873955/ru/%D0%90%D0%97%D0%A1)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>39.213284,48.586537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Северодонецк</name>
+				<description><![CDATA[Северодонецк, трасса Северодонецк – Луганск. <br>Tel. (06452) 3-20-41 <br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-13.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4801)<br><br>- wikimapia.org (http://wikimapia.org/22514123/ru/%D0%90%D0%93%D0%97%D0%A1-%D0%B3%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>38.556454,48.939824,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Sjewjerodonezk</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/25388862/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>38.47153,48.96641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Луганская обл. - Antrazyt</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/24396582/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>39.108925,48.110469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Дрогобыч</name>
+				<description><![CDATA[Львовская область. г. Дрогобыч,<br>Львовская обл. Дрогобычский район с. Раневичи.<br>тел. (03244) 2-79-21<br>(выезд в сторону Стрыя)<br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4816)<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- wikimapia.org (http://wikimapia.org/21785460/uk/Газова-АЗС)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>23.574874,49.343824,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Львов - Липинского</name>
+				<description><![CDATA[Lwów, ul. Lipińskiego 69<br>Tel: +380 (0322) 52-02-26<br><br>GPS: N 49.865687, E 24.049544<br>NGV1 adapter NOT available!<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4808)<br>- wikimapia.org (http://wikimapia.org/5141462/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=49.865061,24.050221&panoid=7Ncbe5PY7P6rEcpEyEub8A&cbp=13,330.85,,1,2.84&ll=49.864554,24.050376&spn=0.001086,0.003015&z=18)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJnVp0)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.049544,49.865687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Львов - Солонка</name>
+				<description><![CDATA[544 km drogi Киев-Чоп<br>Tel. +380 (0322) 64-64-18<br>Source:<br>- www.angks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4806)<br>- wikimapia.org (http://wikimapia.org/12622964/uk/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0-%D0%90%D0%97%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.014204,49.737267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Львов-1</name>
+				<description><![CDATA[Львовская обл. Пустомитовской район с. Микалишив.<br>Tel: +380 (0322) 96-04-64<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4804)<br>- wikimapia.org (http://wikimapia.org/24956911/uk/%D0%90%D0%97%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.181155,49.81805700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Львов-2, Холодновидка</name>
+				<description><![CDATA[Львов-2,<br>Львовская обл. Пустомитовской район<br>с. Холодновидка ул. Кольцевая 14.<br>тел. +380 322 659703<br>(выезд в сторону Судебной Вишни)<br><br>GPS: N 49.811047, E 23.918078<br>NGV1 Adapter available! 24h.<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4807)<br>- wikimapia.org (http://wikimapia.org/18166553/uk/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=49.811804,23.918837&panoid=TSPqE2cl8Ax43MekoxyVFw&cbp=13,212.99,,0,1.39&ll=49.810769,23.919479&spn=0.002174,0.00603&z=17)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJnS-2)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>23.918049,49.811073,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Червоноград</name>
+				<description><![CDATA[УкрАвтоГаз<br>вул. Радехівська, 1<br>Tel.: +380 3249 55651<br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4815)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>24.220798,50.36345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Радехив</name>
+				<description><![CDATA[ЗАО «Галичина». <br>Львовская обл. г. Радехив, <br>Радехивский район, <br>дорога Львов-Луцк<br><br>Informacja ze strony www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>24.629631000000003,50.285391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Стрый, с. Угерско</name>
+				<description><![CDATA[Львовская область. г. Стрый, Львовская обл.<br>Стрыйский район, с. Угерско.<br>тел. (03216) 5-56-85<br>(выезд в сторону Львова)<br><br>Source:<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4811)<br>- wikimapia.org (http://wikimapia.org/26861161/uk/АГНКС)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>23.907484,49.328426,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Львовская обл. - Самбир - Рудник</name>
+				<description><![CDATA[Львовская область. <br>г. Самбир, Львовская обл. Самбирский р-н <br>с. Рудник ул. Бискивская 2. <br>тел. (03236) 2-06-26<br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-14.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4820)<br>- wikimapia.org (http://wikimapia.org/7971263/uk/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>23.174007,49.531772,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Николаевская обл. - Николаев</name>
+				<description><![CDATA[Николаев-1, Херсонское шоссе, 102"А"<br>Tel. +380 512 299413<br>Source:<br>- www.angks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-15.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4766)<br>- agzsmap.ru (http://www.azgsmap.ru/station/1296015)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=12922)<br>- gazmap.ru<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/16269954/ru/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B7%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-%D0%90%D0%93%D0%97%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJzV5-#)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.091016,46.9563,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Николаевская обл. - Николаев</name>
+				<description><![CDATA[5. ООО "АБК-2003" г. Николаев, (на перекресток ул. Новозаводской и ул. Коминтерна)<br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-15.html)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1287010)<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=12923)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJzC0a)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.082996,46.96312100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Николаевская обл. - Николаев, с. Терновка</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз<br>Николаев, с. Терновка<br>вул. 16-ї дивізії, 12<br>Tel.: +380 512 427097<br>Source<br>- www.agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-15.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4767)<br>- gazmap.ru<br>Further information:<br>- wikimapia.org (http://wikimapia.org/94093/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3774)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.031616,47.039568,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Николаевская обл. - Николаев - ООО "Шельф" </name>
+				<description><![CDATA[2.  Николаев - ООО "Шельф"<br>г. Николаев, (выезд в сторону Одессы)<br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-15.html)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJz84M)<br>- gazmap.ru<br>Other information:<br>- azgsmap.ru (http://www.azgsmap.ru/station/1338007)<br>- wikimapia.org (http://wikimapia.org/20646314/ru/АЗС)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>31.913770000000003,46.986357,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Николаевская обл. - Новая Одесса</name>
+				<description><![CDATA[Николаевская область. г. Новая Одесса, ул. Бузька (Еланивское шоссе).<br>Tel. +380 5167 92280<br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-15.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4776)<br>- gazmap.ru<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/23313682/ru/%D0%90%D0%97%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbJzT4w)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>31.777289,47.322447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Николаевская обл. - Voznesensk</name>
+				<description><![CDATA[Source:<br>- gazmap.ru<br><br>Further information:<br>- openstreetmap.org (http://www.openstreetmap.org/#map=17/47.62325/31.30062)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>31.301036,47.623282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Одесская обл. - Одесса-1</name>
+				<description><![CDATA[Одесса-1, Балтская дорога, 71"А" <br>Tel. +380 482 203336<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-16.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4760)<br>- wikimapia.org (http://wikimapia.org/13623147/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>30.709973999999995,46.544668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Одесская обл. - Одесса-2</name>
+				<description><![CDATA[Одесса-2, Тираспольское шоссе, 1. <br>Tel. +380 482 302604<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-16.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4761)<br>- wikimapia.org (http://wikimapia.org/13056226/ru/%D0%90%D0%97%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>30.619197000000003,46.48452100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Лубны</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/BZWNFz8PZev_8jADUXymkt6wXYYXWSQPF35kUSzcK5JfBGet3UkDyOVXqdq04bEWusYmMos6bXBfc1pVUdhNXcGvW8Pm9nvIPw-rq2cv-UGz" height="200" width="auto" /><br><br>Полтавская область, Лубны, ул. Кирова, 22/2<br>Tel. 8 (0482) 30 26 04<br>GPS: N 50.006243, E 33.07772<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-17.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4753)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=521)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNATis)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/BZWNFz8PZev_8jADUXymkt6wXYYXWSQPF35kUSzcK5JfBGet3UkDyOVXqdq04bEWusYmMos6bXBfc1pVUdhNXcGvW8Pm9nvIPw-rq2cv-UGz</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.07772,50.006243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Лубны</name>
+				<description><![CDATA[Source:<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>32.968833,50.049723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Пирятин</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/WLR98ZHYsDttQlmpdXbpB0CXMmxik8h9Ac3v6L-FXCnG8Ysx_ODfHIwKNTA8m3vbKBvTYq13WyCPO9w" height="200" width="auto" /><br><br>Форсаж-газ<br>Пирятин, вул. Сумська, 2Б<br>Tel.: +380 50 1999003<br><br>Source:<br>- forsage.com.ua (http://forsage.com.ua/ru/agnks06/)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5055)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/WLR98ZHYsDttQlmpdXbpB0CXMmxik8h9Ac3v6L-FXCnG8Ysx_ODfHIwKNTA8m3vbKBvTYq13WyCPO9w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>32.522192,50.218436,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Полтава-1</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/B50_Ixa4ASm4YReQo5Z4V-icm-Xy2vI2LNdBhONJDlWhRFzTDdjf3uG9OoMWx-QUKrUA9HVh7vTNBCQ-HWLYYAedqRHQh-3jxGMIp2EL434X" height="200" width="auto" /><br><br>Полтава-1, Киевское шоссе, 31.<br>Tel. 8 (05322) 3-94-57, 8 (0532) 58 49 93<br>GPS: N 49.565455, E 34.458012<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-17.html)<br>- wikimapia.org (http://wikimapia.org/24093801/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=17/49.56565/34.45645)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNEV8H)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/B50_Ixa4ASm4YReQo5Z4V-icm-Xy2vI2LNdBhONJDlWhRFzTDdjf3uG9OoMWx-QUKrUA9HVh7vTNBCQ-HWLYYAedqRHQh-3jxGMIp2EL434X</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.458012,49.565455,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Полтава-2</name>
+				<description><![CDATA[УкрАвтоГаз<br>Горбанівка, вул. Газовиків, 1<br>Tel.: +380 532 584593<br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4780)<br>- wikimapia.org (http://wikimapia.org/224584/Gas-station)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.484324,49.56153400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Полтава-3</name>
+				<description><![CDATA[УкрАвтоГаз<br>Полтава, вул.Київське шосе, 31<br>Tel.: +380 5322 39457<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4779)<br>- wikimapia.org (http://wikimapia.org/15918630/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNES5H)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.504634,49.56024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Полтава-4</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/nT3b_A7Po25mUnuJplILVJy6jeCOOsYnapZn9V9iHjIfLMunzq3RGd_bjNPOSLfMQn5U5g72ya3_zmzoBc3EKRUvS-tu4Ue9q2598Bu2frkx" height="200" width="auto" /><br><br>ul. Artema<br><br>Source:<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- wikimapia.org (http://wikimapia.org/3284584/Gas-station)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNETiJ)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=19/49.58163/34.51831)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/nT3b_A7Po25mUnuJplILVJy6jeCOOsYnapZn9V9iHjIfLMunzq3RGd_bjNPOSLfMQn5U5g72ya3_zmzoBc3EKRUvS-tu4Ue9q2598Bu2frkx</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.518871,49.581593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Решетиловка</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/HKyBWPh0AahFNJgGzHNJUUTMDPuJC1n50AMuSvJSpUd02uAYf0zLt3g4ZMneW96JVCpHrCdxAbDkio1hYZbriDAdH09u1e8ALSp74Pch1I0" height="200" width="auto" /><br><br>Source:<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/HKyBWPh0AahFNJgGzHNJUUTMDPuJC1n50AMuSvJSpUd02uAYf0zLt3g4ZMneW96JVCpHrCdxAbDkio1hYZbriDAdH09u1e8ALSp74Pch1I0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.0999,49.582344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Шишаки</name>
+				<description><![CDATA[Source:<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- wikimapia.org (http://wikimapia.org/20697354/uk/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>33.972505,49.85609500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Кременчуг-1</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/oWbTUruO5aXQk2VRK_6XG0m3l1EI5ao99pC0Dxa-NIERen9cXeA2x1U2Tmo6m24lAa-Ycdb1Mt8TxXYIyt5iW50ruBnNIypnKyoxPE3frFo" height="200" width="auto" /><br><br>Кременчуг-1, переулок Шишкина, 31. <br>Tel. +380 5366 27890<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-17.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4777)<br>- wikimapia.org (http://wikimapia.org/24238556/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br><br><img src="https://lh4.googleusercontent.com/proxy/JwT03AVh4oXjrjadxyL02mIk6JOG8wX_YZmwOcJMFjrGYq86u9gaMNyr9aLCfoOA_6-HsW8nmRaeKgFojvjRSUVVC1U5HHXHOG13KUPYAls" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/oWbTUruO5aXQk2VRK_6XG0m3l1EI5ao99pC0Dxa-NIERen9cXeA2x1U2Tmo6m24lAa-Ycdb1Mt8TxXYIyt5iW50ruBnNIypnKyoxPE3frFo https://lh4.googleusercontent.com/proxy/JwT03AVh4oXjrjadxyL02mIk6JOG8wX_YZmwOcJMFjrGYq86u9gaMNyr9aLCfoOA_6-HsW8nmRaeKgFojvjRSUVVC1U5HHXHOG13KUPYAls</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.465332,49.08232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Полтавская обл. - Кременчуг-2</name>
+				<description><![CDATA[Кременчуг-2, ул. Киевская, 62.<br>Tel. +380 5366 53558<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-17.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4778)<br>- wikimapia.org (http://wikimapia.org/17675686/ru/%D0%90%D0%93%D0%97%D0%A1-%D0%9C%D0%B5%D1%82%D0%B0%D0%BD)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbNI8zw)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>33.410078,49.107829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Poltawa obl. - Kremenchug</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Wh8RSI5m-yUplpv4mEKVefPc50oOE5LYMnAzoYseV-oLBuTmeqwW-j-FFkVG0XfNmzu2lGaKNyVe1m68egolVW-KFGgvhY1zWbPNkcMrb90" height="200" width="auto" /><br><br>Position wrong. Here is an Orange station according to yandex.ua (http://maps.yandex.ua/-/CVbNIXNa).<br>Faktor Metan<br>пр-т 50-річчя Жовтня, 100<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/Wh8RSI5m-yUplpv4mEKVefPc50oOE5LYMnAzoYseV-oLBuTmeqwW-j-FFkVG0XfNmzu2lGaKNyVe1m68egolVW-KFGgvhY1zWbPNkcMrb90</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.440768,49.119613,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ровенская обл. - Рівне</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/0-oHElpqtNTls2zh_vmmmFiWYugPjZTJWsEv4HZw36f-drUW-GYYrjjx2J8yEQAxXlHLvaxMIqvyxxfrJxVJvXqrGbWnGtacXe9U309NzmxP" height="200" width="auto" /><br><br>Газовик<br>вул. Рівненська,1-а, Рівне<br><br>Source:<br>- ngc.kiev.ua (http://ngc.kiev.ua/rovno.html)<br>- wikimapia.org (http://wikimapia.org/21683842/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNeN6N)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/0-oHElpqtNTls2zh_vmmmFiWYugPjZTJWsEv4HZw36f-drUW-GYYrjjx2J8yEQAxXlHLvaxMIqvyxxfrJxVJvXqrGbWnGtacXe9U309NzmxP</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>26.297665,50.600578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ровенская обл. - Рівне ВАТ Рівнепасвантажтранс</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/dOHJG3ICgild1f67jDTl0ESGEMli1L4vf7kbJbf-wFDdsmTi5gD_r39bmo9b55ll9ynVZ_ZCzm_vBXfAaKCcWp6dcNr5Tg" height="200" width="auto" /><br><br>Екогаз<br>вул. Костромська 42, Рівне<br>Tel.: +380 362 643779<br>Source:<br>- ngc.kiev.ua (http://ngc.kiev.ua/rovno.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4846)<br>- wikimapia.org (http://wikimapia.org/19910358/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNeRld)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/dOHJG3ICgild1f67jDTl0ESGEMli1L4vf7kbJbf-wFDdsmTi5gD_r39bmo9b55ll9ynVZ_ZCzm_vBXfAaKCcWp6dcNr5Tg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>26.287059,50.629337,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ровенская обл. - Рівне Костромська</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/7BXRwqOeYSPWKvRpSr3IUf6_IH-6UpCcJ4I_XOD1O93v5tVJ86vgXWw9J1wBpzit08xUM-JrEUjh8QreQ4a0aBiNbQ3CKHQFglCR64OAte4" height="200" width="auto" /><br><br>УкрАвтоГаз<br>вул. Рівненська, 1a, Рівне<br>Tel.: +380 362 249382<br>Source:<br>- ngc.kiev.ua (http://ngc.kiev.ua/rovno.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4812)<br>- wikimapia.org (http://wikimapia.org/18604395/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/7BXRwqOeYSPWKvRpSr3IUf6_IH-6UpCcJ4I_XOD1O93v5tVJ86vgXWw9J1wBpzit08xUM-JrEUjh8QreQ4a0aBiNbQ3CKHQFglCR64OAte4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>26.292322,50.630232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ровенская обл. - Рівне - Рівнеазот</name>
+				<description><![CDATA[Рівнетраса Рівне-Луцьк, 6 км від міста біля Рівнеазот<br><br>Source: ngc.kiev.ua (http://ngc.kiev.ua/rovno.html)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>26.176772,50.703362,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ровенская обл. - Дубно</name>
+				<description><![CDATA[Дубенський р-н, Дубно, Урочище Панталия<br>Dubno, Pantalja<br>Tel.: +380 3656 41573<br><br>Source:<br>- ngc.kiev.ua (http://ngc.kiev.ua/rovno.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4819)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>25.774806,50.440725,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ровенская обл. - Костопіль</name>
+				<description><![CDATA[Рівне - Костопіль<br>Костопільський р-н, с. Лесопіль, вул. Хотинська,1<br><br>Source:<br>- ngc.kiev.ua (http://ngc.kiev.ua/rovno.html)<br>- wikimapia.org (http://wikimapia.org/25819671/uk/Газова-АЗС-АГНКС)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>26.467953,50.840195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Сумская обл. - Сумы-1</name>
+				<description><![CDATA[Сумы-1, Белопольское шоссе, 40.<br>Tel. +380 542 225251<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-19.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4756)<br>- wikimapia.org (http://wikimapia.org/20459199/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br><br>Further information:<br>- yandex.ua (http://maps.yandex.ua/-/CVbNeP5F)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.745942,50.932422,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Сумская обл. - Сумы-2</name>
+				<description><![CDATA[Сумы-2, Курский проспект, 157. <br>Tel. +380 542 241087<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-19.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4757)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.767469,50.953723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Сумская обл. - Сумы</name>
+				<description><![CDATA[Faktor Metan<br>вул. Білопільський шлях, 16/2<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbNeTKm)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>34.762405,50.92497,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Сумская обл. - Шостка</name>
+				<description><![CDATA[Сумская область. г. Шостка, ул. Шевченко, 40.<br>Tel. +380 5449 22392<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-19.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4755)<br>- wikimapia.org (http://wikimapia.org/17113537/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>33.431134,51.86299,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Сумская обл. - Шостка</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/432_ZkUt6v5pQtUbRygAtgOtikamuCbBFNPaYRYHT-McndKbFGmnK_Lim3jzf0cZga-Bww3eSYE71js" height="200" width="auto" /><br><br>Форсаж-газ<br>вул. Шевченка, 57<br>Tel.: +380 66 2250675<br>Source:<br>- forsage.com.ua (http://forsage.com.ua/ru/agnks07/)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=1334)<br>- wikimapia.org (http://wikimapia.org/18968835/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/432_ZkUt6v5pQtUbRygAtgOtikamuCbBFNPaYRYHT-McndKbFGmnK_Lim3jzf0cZga-Bww3eSYE71js</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.447334,51.86672800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Сумская обл. - Шостка</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/19032970/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>33.465149,51.840348000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Сумская обл. - Okhtyrka</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/wOO_CS8xrnCUq3LHuvF2xeBYFocZ01syys_23P_v4lgCprUtfQOgTCXwSUvMsMmp-PeyvNRZEVT5dw1smVtp2hQbgmuq3A" height="200" width="auto" /><br><br>P46<br>Source:<br>- wikimapia.org (http://wikimapia.org/20289511/CNG-gas-station)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNmI~A)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/wOO_CS8xrnCUq3LHuvF2xeBYFocZ01syys_23P_v4lgCprUtfQOgTCXwSUvMsMmp-PeyvNRZEVT5dw1smVtp2hQbgmuq3A</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.933777,50.318819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Тернопольская обл. - Бережанский ГЛПХ</name>
+				<description><![CDATA[Approximate location<br><br>Бережанский ГЛПХ. Тернопольская область. г. Бережаны, ул. Привокзальная, 1 «а» (на территории лесоперерабатующего завода)<br><br>Source: agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-20.html)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>24.947537,49.448737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Тернопольская обл. - Бережаны</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/74OjNiCllOGUvswmVsj0Ud2TqbTZbR1gbt-sDU7xoHoRjQx0Gi9v_ja3HyhIRaMtpAcCVgvcvJgO-NLETv_DbCJ3" height="200" width="auto" /><br><br>«Фактор».<br>вул. Золочивская 53-а<br>Бережаны<br>Tel.: +380 3548 24967<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-20.html)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/74OjNiCllOGUvswmVsj0Ud2TqbTZbR1gbt-sDU7xoHoRjQx0Gi9v_ja3HyhIRaMtpAcCVgvcvJgO-NLETv_DbCJ3</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>24.951904,49.467054,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Тернопольская обл. - Цорткив</name>
+				<description><![CDATA[Цорткив, ОбЪезная дорога 2<br>Tel. +380 3552 31532<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4817)<br>- wikimapia.org (http://wikimapia.org/25553334/uk/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=17/49.01085/25.75240)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>25.752769000000004,49.011148000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Тернопольская обл. - Тернополь-1</name>
+				<description><![CDATA[Тернополь-1, ул. Роща, 58. <br>тел. +380 352 246501<br>(выезд в сторону Теребовли)<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-20.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4809)<br>- wikimapia.org (http://wikimapia.org/23243784/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BB%D0%BE%D0%BB%D1%8C-1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>25.625653,49.534567,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Тернопольская обл. - Тернополь-2</name>
+				<description><![CDATA[Тернополь-2, Тернопольская обл. Тернопольский р-н <br>с. Остров. тел. +380 352 279768<br>(выезд в сторону Теребовли)<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-20.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4810)<br>- wikimapia.org (http://wikimapia.org/15800389/ru/%D0%90%D0%93%D0%9D%D0%A1%D0%9A)<br><br><br>NGV1 adapter NOT available!]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>25.613894000000002,49.479265000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Тернопольская обл. - Тернопіль</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Q0FeG1r2oAo8hdQYH3zzkD3iywXxzXB_UJk0LPU3vjBxA7uFohvarBSS3cc5EbmV3YFe2UoDUrhalEQLfj2zx3mL" height="200" width="auto" /><br><br>Faktor Metan<br>Galitskaya ul. 38<br>Tel.: +380 67 5019865<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)<br>- wikimapia.org (http://wikimapia.org/25322901/ru/%D0%90%D0%97%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/Q0FeG1r2oAo8hdQYH3zzkD3iywXxzXB_UJk0LPU3vjBxA7uFohvarBSS3cc5EbmV3YFe2UoDUrhalEQLfj2zx3mL</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>25.611486,49.559151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Харьков-2</name>
+				<description><![CDATA[Харьков-2, проспект Гагарина, 213.<br>Tel. +380 572 524107<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-21.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4763)<br>- wikimapia.org (http://wikimapia.org/25670351/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-2)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=49.903957,36.281379&panoid=lUSLtnjk1HHsBNQMh0HRpw&cbp=13,53.15,,0,3.91&ll=49.902922,36.282027&spn=0.00217,0.00603&z=17)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNyS1N)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.282118,49.904268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Харьков-3</name>
+				<description><![CDATA[Харьков-3, с. Лидное, ул. Марии Кисляк, 197.<br>Tel. +380 572 762303<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-21.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4764)<br>- wikimapia.org (http://wikimapia.org/5081632/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=49.922912,36.130531&panoid=Syb71m5yVUEHYKG_gKSvxQ&cbp=13,80.7,,0,1.8&ll=49.92188,36.131179&spn=0.002169,0.00603&z=17)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.13236,49.923046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Харьков-4</name>
+				<description><![CDATA[Харьков-4, Салтовское шоссе, 163.<br>Tel. +380 572 623145<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-21.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4765)<br>- wikimapia.org (http://wikimapia.org/20076046/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=49.994932,36.372528&panoid=8DXs_7Lw1Ww-B22giEaj7Q&cbp=13,283.61,,0,4.68&ll=49.9939,36.373168&spn=0.002166,0.00603&z=17)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.371162,49.995029,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Харьков-5</name>
+				<description><![CDATA[P46 (Zalyutinskaya ulitsa)<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/15799761/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- Google Street View (https://maps.google.de/?ie=UTF8&t=h&layer=c&cbll=49.975311,36.111843&panoid=0dXTYtUE-ETQMzWtFhma7g&cbp=13,181.88,,0,-1.56&ll=49.974793,36.112162&spn=0.001083,0.003015&z=18)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=19/49.97484/36.11183)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.112146,49.974955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Харьков-6</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/6824855/ru/%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-%D0%91-2-%D0%B1%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD-%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%BD-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=18/49.89055/36.15020)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>36.150137,49.890038,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Харьков-7</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/20076443/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- yandex.ua (http://maps.yandex.ua/-/CVbN5G5m)<br>- Google Street View (https://maps.google.de/maps?hl=de&ie=UTF8&t=h&layer=c&cbll=49.935351,36.429844&panoid=twclLiBYEJEi3llfluxvPg&cbp=13,341.66,,1,1.31&ll=49.934333,36.430331&spn=0.002168,0.00603&z=17)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.429505,49.936196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Харьков-8</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/rwUXNsWpsz6MaFFqSAZ1u35KihyjG2fJ_lH1a2bccGUBMB4fSU7HBD6msk4avA3z6xH052aC2vljNWDigzUl1hE_9DqejA" height="200" width="auto" /><br><br>Source:<br>- wikimapia.org (http://wikimapia.org/20076409/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=19/49.92677/36.45157)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/rwUXNsWpsz6MaFFqSAZ1u35KihyjG2fJ_lH1a2bccGUBMB4fSU7HBD6msk4avA3z6xH052aC2vljNWDigzUl1hE_9DqejA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>36.451564,49.926866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Bohoduchiw</name>
+				<description><![CDATA[Source:<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>35.54112,50.146206,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Pervomayskiy</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/19587961/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>36.193181,49.387248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Купянск</name>
+				<description><![CDATA[Харьковская область. г. Купянск, ул. Ленина, 103<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-21.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4786)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- yandex.ua (http://maps.yandex.ua/-/CVbN6P6-#)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>37.592082,49.737156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл.  - Isjum</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/18696027/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>37.276944,49.170608,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Лозова</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/hqSMWOGk1Z7u-RxzmTmv9oOBtBHzHXlelJ6XunAArFqPChsBszFAn1gy4kJJ5p6i71TiSr_gV6wijbU" height="200" width="auto" /><br><br>Форсаж-газ<br>ул. Свободы, 32-а<br>Tel.: +380 50 7797057<br><br>Source:<br>- forsage.com.ua (http://forsage.com.ua/ru/agnks05/)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5062)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/hqSMWOGk1Z7u-RxzmTmv9oOBtBHzHXlelJ6XunAArFqPChsBszFAn1gy4kJJ5p6i71TiSr_gV6wijbU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>36.280847,48.89425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Харьковская обл. - Лозовая</name>
+				<description><![CDATA[Харьковская область. г. Лозовая, ул. Свободная, 16. <br>Tel. +380 5745 26803<br>Source<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-21.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4787)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>36.262613,48.89892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Херсонская обл. - Херсон</name>
+				<description><![CDATA[Lukoil Чорнобаївка<br>Миколаївське шосе 8км<br>Tel.: +380 50 4120998<br><br>Source:<br>- lukoil.ua (http://www.lukoil.ua/rus/auto/refuel/herson/301)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=1784)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNjLiC)<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/19843041/ru/АЗС)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=18/46.68719/32.56138)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.56235,46.687003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Херсонская обл. - Херсон - Бориславское шоссе</name>
+				<description><![CDATA[Херсон, Бориславское шоссе, 29/31.<br>Tel. +380 552 552831<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-22.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4775)<br>- wikimapia.org (http://wikimapia.org/13986994/ru/%D0%90%D0%97%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNnG0G)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.662702,46.691367,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Херсонская обл. - Херсон - Николаевское шоссе</name>
+				<description><![CDATA[ООО «Газ Авто» г. Херсон, 4-ый кг. Николаевское шоссe<br>GPS Coordinates<br>N 46° 40' 56.64"  E 32° 34' 3.78"<br>N 46° 40.944'   E 32° 34.063'<br>N 46.6824°  E 32.56772°<br><br>Source:<br>- agnkc.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-22.html)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNjX5J)<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/24972485/ru/АЗС)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.568085,46.682704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Херсонская обл. - Nova Kakhovka</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Z6L0o2Rkza1QnimjNg6V8wmKl8mbOcn8g1qBkaPouP18X-SGumVuBT1RF_Ssab8t8kOdjx_qIGZDVmkbrXwLmFSRo8ihkMWhQQm1WiLj5lQ" height="200" width="auto" /><br><br>Source:<br>- wikimapia.org (http://wikimapia.org/21523636/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNn0Nm)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/Z6L0o2Rkza1QnimjNg6V8wmKl8mbOcn8g1qBkaPouP18X-SGumVuBT1RF_Ssab8t8kOdjx_qIGZDVmkbrXwLmFSRo8ihkMWhQQm1WiLj5lQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>33.397171,46.747124,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Хмельницкая обл. - Хмельницкий</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Iktj2DdnSSQ2U8mGO_Rb7RU09DlrLqs0cqee3V9xSeT46dRj0p9u_Siaa4xWfLIBvHq9O4S91H-nAY8KbvX-rBc9nLOHxZZ4evUDLuwZvSPa" height="200" width="auto" /><br><br>Хмельницкий, ул. Западная Объездная дорога 3/1<br>тел. +380 3822 35147<br>(выезд в сторону Волочиска)<br>Source: <br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-23.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4750)<br>- wikimapia.org (http://wikimapia.org/13890019/ru/%D0%93%D0%90%D0%97%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Iktj2DdnSSQ2U8mGO_Rb7RU09DlrLqs0cqee3V9xSeT46dRj0p9u_Siaa4xWfLIBvHq9O4S91H-nAY8KbvX-rBc9nLOHxZZ4evUDLuwZvSPa</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>26.956383,49.456381,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Хмельницкая обл. - Khmelnytskyi</name>
+				<description><![CDATA[Ozerna bul.<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/13922770/ru/%D0%90%D0%97%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- yandex.ua (http://maps.yandex.ua/-/CVbNnTnD)<br><br>Further information:<br>- openstreetmap.org (http://www.openstreetmap.org/#map=19/49.44247/27.01522)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>27.015542,49.442368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Хмельницкая обл. - Khmelnytskyi</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/a8gUGFbeO0Mnp35yWn2tiJlP1SHXhkWZ0zl6oavEjMyYTWJzcT0UQlniOiHZCYlbsoMnuuaoSKJTosNzWDOpt4aRCS0OfA" height="200" width="auto" /><br><br>Source:<br>- wikimapia.org (http://wikimapia.org/21182927/ru/%D0%90%D0%93%D0%9D%D0%A1)<br><br>Further information:<br>- openstreetmap.org (http://www.openstreetmap.org/#map=18/49.35854/26.96486)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/a8gUGFbeO0Mnp35yWn2tiJlP1SHXhkWZ0zl6oavEjMyYTWJzcT0UQlniOiHZCYlbsoMnuuaoSKJTosNzWDOpt4aRCS0OfA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>26.965138,49.358263,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Хмельницкая обл. - Шепетівка</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/d7SijhxcjbuovSwqWhoMYbfZYScnVVIw1cO4Jt936plFsRKtUufAvafEWLFl908YWJi38dif7Z3hECDrGBNH6ESw_jcQokW5X0kbWt3PFJM" height="200" width="auto" /><br><br>УкрАвтоГаз<br>вул. Новоград-Волинське шосе, 27<br>Tel.: +380 3840 54144<br><br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4759)<br>- wikimapia.org (http://wikimapia.org/19101176/ru/%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%90%D0%97%D0%A1)<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainy.html) (wrong position)<br><br><img src="https://lh5.googleusercontent.com/proxy/JOpWHJzrJn-rDXzdZQRTExb_x7UijuYUELGBUhT2NiF4JwLLmOM8BAIEH2oxhEMXENlZfIE70d1SI7OnCxl0epzHAk7KOrTUTuMKoMhTrcE" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/proxy/QYxggWCIffnk3QvQCaYP2CYNtkU21N6CPtJSmzJzvgYGviDp1lZQCWwNq9ySVaSektTtUhRmxQ_tMUhEhxu9PYe9VjgstA" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/d7SijhxcjbuovSwqWhoMYbfZYScnVVIw1cO4Jt936plFsRKtUufAvafEWLFl908YWJi38dif7Z3hECDrGBNH6ESw_jcQokW5X0kbWt3PFJM https://lh5.googleusercontent.com/proxy/JOpWHJzrJn-rDXzdZQRTExb_x7UijuYUELGBUhT2NiF4JwLLmOM8BAIEH2oxhEMXENlZfIE70d1SI7OnCxl0epzHAk7KOrTUTuMKoMhTrcE https://lh3.googleusercontent.com/proxy/QYxggWCIffnk3QvQCaYP2CYNtkU21N6CPtJSmzJzvgYGviDp1lZQCWwNq9ySVaSektTtUhRmxQ_tMUhEhxu9PYe9VjgstA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>27.047095,50.213046000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Хмельницкая обл. - Каменец-Подольский</name>
+				<description><![CDATA[Хмельницкая область.<br>г. Каменец-Подольский, с. Гуменци, road Черновцы - Хмельницкий.<br>Tel: +380 3849 71698<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-23.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4752)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br><br>Other information:<br>- wikimapia.org (http://wikimapia.org/24845912/uk/Кафе) (Cafe)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>26.621493,48.74787,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Звенигородка</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/rkPo_eCtxulbmA28yQjQgvS1j6MK7rYYS0LobdNLCZmQqDA2jit2kg7ySuxPpOWzVUUa9h7NPO8p7gak_EdCDo-DL6ciXPvsrsHxhr7gARI" height="200" width="auto" /><br><br>Звенигородка, Черкасское шоссе, проспект Шевченко, 144.<br>Tel: +380 4740 26065<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-24.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4785)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1115001)<br>- gazmap.ru<br>- wikimapia.org (http://wikimapia.org/25610030/ru/%D0%90%D0%97%D0%A1)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/rkPo_eCtxulbmA28yQjQgvS1j6MK7rYYS0LobdNLCZmQqDA2jit2kg7ySuxPpOWzVUUa9h7NPO8p7gak_EdCDo-DL6ciXPvsrsHxhr7gARI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>30.993354,49.070879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Золотоноша</name>
+				<description><![CDATA[Золотоноша, Драбовское кольцо.<br>Tel. +380 4737 55174<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-24.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4784)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1117001)<br>- wikimapia.org (http://wikimapia.org/21718959/ru/%D0%90%D0%93%D0%9D%D0%A1%D0%9A)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3749)<br><br>Further information:<br>- openstreetmap.org (http://www.openstreetmap.org/#map=18/49.70770/32.02213) (LPG only)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.02284,49.707532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Черкассы</name>
+				<description><![CDATA[АГНКС УкрАвтоГаз<br>Черкассы, ул. Суриковая, 21.<br>Tel. +380 472 649053<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-24.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4781)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1084004)<br>- wikimapia.org (http://wikimapia.org/6539379/ru/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- gazmap.ru<br><br>Further information:<br>- openstreetmap.org (http://www.openstreetmap.org/#map=18/49.38828/32.04392) (no fuel information)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.04426,49.388229,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Черкассы</name>
+				<description><![CDATA[Автогазинвест<br>Смелянское шоссе, 8 км<br><br>Source:<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1091001)<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=42981)<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/14623510/ru/Газовая-заправка) (no fuel information)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=19/49.38435/31.99047) (no fuel information)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>31.990878999999996,49.384342000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Черкассы</name>
+				<description><![CDATA[Совгаз<br>Смелянское шоссе, 7 км<br><br>Source:<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=42978)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1085002)<br><br>Further information:<br>- wikimapia.org (http://wikimapia.org/22736643/ru/Газовая-Автозаправка) (no fuel information)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=17/49.39393/32.00369) (no fuel information)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.00518,49.393819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Черкассы - «Фактор-капитал»</name>
+				<description><![CDATA[1. Черкассы - «Фактор-капитал».<br>г. Черкассы, ул. Королева.<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-24.html)<br>- gazmap.ru<br>- azgsmap.ru (http://www.azgsmap.ru/station/1100001)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=19/49.41874/32.01677)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>32.017196,49.418714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Uman</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/14461082/uk/%D0%90%D0%93%D0%9D%D0%9A%D0%A1)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1084026)<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=7263)<br><br>Further information:<br>- Panoramio (http://www.panoramio.com/photo/11502723) (station in background)<br>- openstreetmap.org (http://www.openstreetmap.org/#map=19/48.72115/30.26543) (no fuel information)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>30.265832,48.721264000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черкасская обл. - Uman</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/P6k90pnoXitQjb4urLaQCqse7ikZ39tjdogvwr8UMYzj9NFCJ-D_TAiGnvQ0eOrpRSrr337V5iu2we_vtrAKW43hcWAV1w" height="200" width="auto" /><br><br>вул. Індустріальна, 38<br><br>Source:<br>- wikimapia.org (http://wikimapia.org/18965367/ru/%D0%90%D0%97%D0%A1-%D0%93%D0%B0%D0%B7-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- azgsmap.ru (http://www.azgsmap.ru/station/1102034)<br>- gazmap.ru<br>- mapcam.info (http://mapcam.info/poi/point.php?idp=3767)<br>- wikimapia.org (http://wikimapia.org/16019877/uk/%D0%90%D0%97%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- yandex.ua (http://maps.yandex.ua/-/CVbN7NPV)<br><br><img src="https://lh3.googleusercontent.com/proxy/ZCaRay6rnFvnV76LDFHTHDI7Flxr8thV6kLecPVtCW-yui0Teq4K7B8nNjqXgcMdzbx9dPvCZLUM5AbfZP3LMp5-uxb-euzxb_SsEEoRUGU" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/proxy/59kszbAJFfRikbC8vmcaDRZqXQY_f-5358KA8IJqS2W-b7vhUZVSvH2ntEsKNYfuhVevI7XWbocI2Cb3qGRVkJXjteFXgAUHNcjxaJh8hqo" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/proxy/0qwM02GsqCkwWHtIHocoxPdEinqX-6VXgi81sY82vYPohyeHiFLq_r-ZRRFjc7dfPdLTtq-FSgjSzyhsg_ZdrBkI1Zx93x6CsEd6_jhTlrU" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/P6k90pnoXitQjb4urLaQCqse7ikZ39tjdogvwr8UMYzj9NFCJ-D_TAiGnvQ0eOrpRSrr337V5iu2we_vtrAKW43hcWAV1w https://lh3.googleusercontent.com/proxy/ZCaRay6rnFvnV76LDFHTHDI7Flxr8thV6kLecPVtCW-yui0Teq4K7B8nNjqXgcMdzbx9dPvCZLUM5AbfZP3LMp5-uxb-euzxb_SsEEoRUGU https://lh3.googleusercontent.com/proxy/59kszbAJFfRikbC8vmcaDRZqXQY_f-5358KA8IJqS2W-b7vhUZVSvH2ntEsKNYfuhVevI7XWbocI2Cb3qGRVkJXjteFXgAUHNcjxaJh8hqo https://lh5.googleusercontent.com/proxy/0qwM02GsqCkwWHtIHocoxPdEinqX-6VXgi81sY82vYPohyeHiFLq_r-ZRRFjc7dfPdLTtq-FSgjSzyhsg_ZdrBkI1Zx93x6CsEd6_jhTlrU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>30.18043,48.739691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черниговская обл. - Чернигов</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/9cPNM6leqZdfdK6Q5l3nFev8HmcJ5t8X2cSvi1EDBEB6RXgZAOap-S4sc9qogDZj9TdZ9YXRLh0JH_3mLWwms7fBVfLDGGy582HK5qlItzQ" height="200" width="auto" /><br><br>Чернигов, ул. Ушинского, 36"А"<br>Tel.: +380 4622 42345<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-25.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4754)<br>- wikimapia.org (http://wikimapia.org/19436488/Methane-filling-statioon)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/9cPNM6leqZdfdK6Q5l3nFev8HmcJ5t8X2cSvi1EDBEB6RXgZAOap-S4sc9qogDZj9TdZ9YXRLh0JH_3mLWwms7fBVfLDGGy582HK5qlItzQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>31.244543000000004,51.458429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черниговская обл. - Чернигов</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/21525466/ru/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%BC)<br>- gazmap.ru]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>31.247832,51.477852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черниговская обл. - Чернигов</name>
+				<description><![CDATA[Source:<br>- wikimapia.org (http://wikimapia.org/13429634/uk/%D0%90%D0%97%D0%A1-%D0%BC%D0%B5%D1%82%D0%B0%D0%BD)<br>- gazmap.ru<br>- yandex.ua (http://maps.yandex.ua/-/CVbRAYZ8)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>31.247541999999996,51.516638,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черниговская обл. - Чернигов</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/BfoDLZZvKJ1loKJ2IlfZ2YlzwMfPit1HjhZTIlQFVLF0IAc7fd-kK0taZjYkwqH5pHv_HVFBsSoOqEQqys0l_NmKwW24-T6bLu9bQf_t09E" height="200" width="auto" /><br><br>Faktor Metan?<br><br>Source:<br>- factor.com.ua (http://ua.factor.com.ua/view.nets/)<br>- gazmap.ru<br><br><img src="https://lh6.googleusercontent.com/proxy/dxBhafEDwTH0UZaU_mWpAIMSnvdbxP8nPzBp2zyD2yFRXyR2wBat22E4yvzOhXXF4WEkDvLyrgJrbNKzokC6F1zV_eeKEaIWlZfXGbo2s38" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/BfoDLZZvKJ1loKJ2IlfZ2YlzwMfPit1HjhZTIlQFVLF0IAc7fd-kK0taZjYkwqH5pHv_HVFBsSoOqEQqys0l_NmKwW24-T6bLu9bQf_t09E https://lh6.googleusercontent.com/proxy/dxBhafEDwTH0UZaU_mWpAIMSnvdbxP8nPzBp2zyD2yFRXyR2wBat22E4yvzOhXXF4WEkDvLyrgJrbNKzokC6F1zV_eeKEaIWlZfXGbo2s38</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>31.338705000000004,51.533977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черниговская обл. - Носовкa</name>
+				<description><![CDATA[Носовский район, г. Носовка, Иржавский путь,<br>Tel. +380 4642 28852<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-25.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4751)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>31.554279,50.953926,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черниговская обл. - Nizhyn</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/2FhfqyfDlC6mBC8Kuv2PGJw3TmD7pcnRxjVPBUipYjN6FM3POFiBKWF2HoZVSYrVgEXkY5CC9WzL2k8" height="200" width="auto" /><br><br>Форсаж-газ<br>вул. Батюка, 1А<br>Григоро-Іванівка<br>Tel.: +380 50 3664012<br>Source:<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=5061)<br>- forsage.com.ua (http://forsage.com.ua/ru/agnks04/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/2FhfqyfDlC6mBC8Kuv2PGJw3TmD7pcnRxjVPBUipYjN6FM3POFiBKWF2HoZVSYrVgEXkY5CC9WzL2k8</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>31.820558,51.031132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черновицкая обл. - Черновцы</name>
+				<description><![CDATA[г. Черновцы, ул. Энергетическая, 1. <br>тел. +380 372 593597<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-26.html)<br>- azs.uapetrol.com (http://azs.uapetrol.com/window/azsInfo.html?azs=4823)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br>- maps.yandex.ua (http://maps.yandex.ua/-/CVvzRB0f)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>25.933289,48.320105,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Черновицкая обл. - Черновцы 2</name>
+				<description><![CDATA[Approximate location<br><br>ООО «Экотрансгаз» г. Черновцы, ул. Южная кольцевая, тел. (050) 338-15-11<br><br>Source:<br>- agnks.org.ua (http://www.agnks.org.ua/karta-agnks-ukrainyi-26.html)<br>- gazmap.ru (http://gazmap.ru/maps/cngmap.php)<br><br>Maybe further information:<br>- maps.yandex.ua (http://maps.yandex.ua/-/CVvzRXOH)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>25.966642,48.256073,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-168-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-168-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-168'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-168-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-168-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-169-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-169-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-169'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-169-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-169-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-77-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/77-info.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-77-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/77-info.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-77'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-77-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-77-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,5 +1,8 @@
 package org.home.poi;
 
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+
 import java.util.Map;
 
 public class Poi {
@@ -11,6 +14,13 @@ public class Poi {
         latitude  = m.get("lat");
         longitude  = m.get("lon");
         description  = createDescription(m);
+    }
+
+    public Poi(Element placeMark) {
+        description = placeMark.getElementsByTagName("name").item(0).getTextContent();
+        String[] coordinates = ((Element)placeMark.getElementsByTagName("Point").item(0)).getElementsByTagName("coordinates").item(0).getTextContent().split(",");
+        longitude = coordinates[0];
+        latitude = coordinates[1];
     }
 
     public String getLatitude() {
